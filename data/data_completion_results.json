@@ -1,0 +1,1980 @@
+[
+  {
+    "state": "Georgia",
+    "name": "Student Technology Protection Act",
+    "description": "Requires instructor and student education on safe use of technology;  tightens acceptable usage and filtering policies at schools.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Education and research",
+      "Cybersecurity",
+      "Online safety"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "This bill focuses on educational requirements for technology safety instruction, cybersecurity through filtering and usage policies, and broader online safety measures in school settings. The governance approach involves requiring institutional policy changes rather than direct platform regulation."
+  },
+  {
+    "state": "Idaho",
+    "name": "PROTECTION OF MINORS \u2013 Adds to existing law to establish the Parental Rights Protection of Minors Act to protect minors from exposure to harmful materials on certain devices.",
+    "description": "Requires tablet/smartphone manufacturers to have filters that are enabled at activation and only bypassed or switched off with password. Crime for non-parents to deactivate filter and allow minors to access harmful content.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Design and testing standards",
+      "Liability"
+    ],
+    "llm_governance": "Content moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on content filtering requirements for device manufacturers, establishing design standards for mandatory filters, and creating criminal liability for bypassing these protections - distinguishing it from general online safety bills through its device-level approach and specific liability framework."
+  },
+  {
+    "state": "Idaho",
+    "name": "PROTECTION OF MINORS \u2013 Adds to existing law to establish the Parental Rights Protection of Minors Act to protect minors from exposure to harmful materials on certain devices.",
+    "description": "Requires tablet/smartphone manufacturers to have filters that are enabled at activation and only bypassed or switched off with password. Crime for non-parents to deactivate filter and allow minors to access harmful content.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Design and testing standards",
+      "Liability"
+    ],
+    "llm_governance": "Content moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on content filtering requirements for device manufacturers, establishing design standards for mandatory filters, and creating criminal liability for bypassing these protections - distinguishing it from general online safety bills through its device-level approach and specific liability framework."
+  },
+  {
+    "state": "Illinois",
+    "name": "Creates the Children's Privacy Protection and Parental Empowerment Act",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted. Establishes working group to develop best practices.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Online safety",
+      "Design and testing standards"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Privacy is primary due to data use restrictions and default protective settings. Online safety captures the harm mitigation focus. Design and testing standards reflects the impact assessments and mitigation plans requirements. Governance remains Platforms + Democracy as it mandates platform design changes and impact assessments."
+  },
+  {
+    "state": "Illinois",
+    "name": "Creates the Minor Online Data Privacy Act.",
+    "description": "[No bill text available]",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "The bill name 'Minor Online Data Privacy Act' clearly indicates its primary focus is on data privacy protections for minors, making Privacy the most specific and relevant tag. Online safety is included as a secondary tag since data privacy for minors is a key component of child online safety. The governance category is Privacy/Data Rights as this appears to be legislation restricting data collection/use from minors."
+  },
+  {
+    "state": "Indiana",
+    "name": "Internet safety curricula for schools",
+    "description": "Permits schools to teach Internet safety and instructs state education department to create curricular materials  at, minimally, elementary and high school levels.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Education and research",
+      "Online safety",
+      "Cybersecurity"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "This bill focuses on educational curriculum development for internet safety, making 'Education and research' the primary tag. 'Online safety' and 'Cybersecurity' capture the specific safety focus. The governance approach involves government (state education department) creating and overseeing safety programs rather than regulating platforms directly."
+  },
+  {
+    "state": "Iowa",
+    "name": "An Act relating to civil liability for commercial entities who publish or distribute material harmful to minors on the internet and providing penalties.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Liability",
+      "Privacy"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification requirements, creates civil liability framework for non-compliant entities, and includes privacy protections by prohibiting ID information retention"
+  },
+  {
+    "state": "Iowa",
+    "name": "An Act relating to social media users under eighteen years of age, making penalties applicable, and including applicability provisions.",
+    "description": "Prohibits social media platforms from allowing under 18s having accounts.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Online safety",
+      "Authorisation, registration and licensing"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "This bill focuses on online safety by prohibiting platforms from allowing under-18 accounts, which is a broad safety measure. The authorization/licensing tag applies as it restricts who can access platform services based on age requirements. The governance remains Platforms + Democracy as it mandates platform operational changes."
+  },
+  {
+    "state": "Iowa",
+    "name": "An Act relating to social media data collection regarding children under eighteen years of age, providing civil penalties, and including applicability provisions.",
+    "description": "Prohibits social media platforms from collecting personal information (broadly defined) about children without parental consent.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Bill specifically targets data collection practices regarding minors, making Privacy the primary focus. Online safety is secondary as the bill aims to protect children through data restrictions. Governance remains Privacy/Data Rights as it restricts platform data collection from minors."
+  },
+  {
+    "state": "Iowa",
+    "name": "An Act relating to parental consent regarding internet sites for users under the age of sixteen, providing civil penalties, and including applicability provisions",
+    "description": "Requires parental consent for under 16s to use social media or gaming platforms.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Authorisation, registration and licensing"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This bill primarily focuses on online safety through parental consent requirements, which constitutes a form of authorization/licensing system for minors' platform access. The governance approach restricts platform interactions with minors rather than content moderation."
+  },
+  {
+    "state": "Kansas",
+    "name": "Requiring commercial entities that produce material harmful to minors on the internet to require age verification for access to such internet sites and establishing a civil cause of action against such commercial entities by persons harmed to recover actual and punitive damages, court costs and attorney fees.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Privacy",
+      "Liability"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on content moderation through age verification requirements for adult content, involves privacy considerations around ID verification processes, and establishes civil liability for non-compliant entities. The governance approach centers on regulating access to harmful content rather than broader platform design changes."
+  },
+  {
+    "state": "Kansas",
+    "name": "Require commercial entities that produce material harmful to minors on the internet to require age verification for access to such internet sites, establishing a civil cause of action against such commercial entities by persons harmed to recover actual and punitive damages, court costs and attorney fees.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Privacy",
+      "Liability"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on content moderation through age verification requirements for adult content, involves privacy considerations around ID verification processes, and creates civil liability for non-compliant entities. The governance approach centers on regulating access to harmful content rather than broader platform design changes."
+  },
+  {
+    "state": "Kansas",
+    "name": "Removing liability protections from online platforms and requiring certain wireless communication devices to have a default setting notifying parents of application downloads.",
+    "description": "Declares that algorithmic recommendation of certain harmful content is not protected by \u00a7230.  Requires mobile device vendors to alert parents whenever a child downloads an app.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Government Surveillance",
+    "llm_tags": [
+      "Liability",
+      "Algorithms",
+      "Transparency"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is removing Section 230 liability protections for algorithmic recommendation of harmful content, with secondary requirement for parental notification transparency about app downloads"
+  },
+  {
+    "state": "Kentucky",
+    "name": "AN ACT relating to consumer data privacy.",
+    "description": "General data privacy act that categorizes all personal data relating to minors as \"sensitive.\"",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This is a general data privacy act that specifically categorizes all minor-related personal data as sensitive, making Privacy the primary focus. Online safety is secondary as it relates to protecting minors online through data privacy measures."
+  },
+  {
+    "state": "Kentucky",
+    "name": "AN ACT relating to the protection of minors.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on content moderation through age verification requirements for adult content websites, involves privacy concerns due to ID verification processes, and addresses online safety through access restrictions. The governance approach is content moderation as it regulates access to harmful content through verification mechanisms."
+  },
+  {
+    "state": "Louisiana",
+    "name": "Provides for attorney general investigation for publishers and distributors of material harmful to minors",
+    "description": "Adds civil action for AG to the provisions of HB 142 (2022) / Act 440",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Government Surveillance",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Liability"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "This bill empowers the Attorney General to investigate and take civil action against publishers/distributors of material harmful to minors, focusing on content regulation enforcement and creating legal liability mechanisms. The governance remains Government Surveillance as it expands AG investigative powers."
+  },
+  {
+    "state": "Louisiana",
+    "name": "Provides for liability for publishers and distributors of material harmful to minors",
+    "description": "Require age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Liability",
+      "Privacy"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification requirements for pornographic content, creates liability framework for publishers/distributors, and includes privacy protections by prohibiting ID information retention"
+  },
+  {
+    "state": "Louisiana",
+    "name": "Creates the Secure Online Child Interaction and Age Limitation Act.",
+    "description": "Requires parental approval for minors to have social media accounts;  requires age verification. Minor accounts: limited discoverability and communication;  allow parental access;  limited data use;  curfewed by default;  parents can set time limits.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Online safety",
+      "Authorisation, registration and licensing"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Privacy is primary due to data use restrictions and parental access requirements. Online safety covers the protective measures like communication limits and curfews. Authorisation captures the parental approval requirement for account creation. Platforms + Democracy fits as it mandates specific platform design changes for minor accounts."
+  },
+  {
+    "state": "Maine",
+    "name": "An Act to Protect Children by Modernizing Internet and Digital Media Filtering Requirements for Education",
+    "description": "Requires schools to use pornography filters on their networks and devices.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Education and research"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill specifically mandates pornography filtering in educational settings, making content moderation the primary focus. Education and research is included because the requirements apply specifically to school networks and devices, distinguishing it from broader internet filtering mandates."
+  },
+  {
+    "state": "Maryland",
+    "name": "Consumer Protection \u2013 Social Media Regulation and Safety for Children",
+    "description": "Prohibits under 13s having social media accounts;  platforms must identify and offer deletion for accounts of under 13s;  requires establishment of option of minor-parent joint accounts;  establishes fund for digital citizenship education.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Content moderation/Free Speech",
+      "Privacy"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Bill focuses on online safety through age restrictions and account controls, involves content moderation via platform identification requirements, and touches on privacy through data collection implications for age verification"
+  },
+  {
+    "state": "Maryland",
+    "name": "Consumer Protection - Online Products and Services - Children's Data",
+    "description": "Require online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children through data retention or algorithms;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Algorithms",
+      "Design and testing standards"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Bill primarily focuses on data privacy restrictions for children, algorithmic impact assessments, and platform design requirements (default privacy settings). The governance approach involves mandating platform design changes and impact assessments rather than content moderation or government surveillance."
+  },
+  {
+    "state": "Maryland",
+    "name": "Commercial Law - Protection of Minors From Unfiltered Tablets or Smart Phones",
+    "description": "Require tablet/smartphone manufacturers to have filters that are enabled at activation and only bypassed or switched off with password. ",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Design and testing standards",
+      "Online safety",
+      "Other operating conditions"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This bill mandates specific technical design requirements (filters enabled by default) for device manufacturers, focuses on online safety through filtering mechanisms, and imposes operational conditions on how devices must be configured and sold."
+  },
+  {
+    "state": "Maryland",
+    "name": "Consumer Protection \u2013 Online Products and Services \u2013 Children\u2019s Data",
+    "description": "Require online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Design and testing standards",
+      "Online safety"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Privacy is the primary focus given extensive data use restrictions and default protective settings. Design and testing standards captures the impact assessments and mitigation plans requirement. Online safety reflects the broader harm prevention goals. Governance remains Platforms + Democracy as it requires platform design changes and impact assessments."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to internet privacy rights for children",
+    "description": "Prohibits internet services from advertising or marketing harmful products (incl. weapons, tobacco, lottery tickets, pornography, spray paint) to minors;  requires internet services to facilitate the removal of minors' posted content when requested.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Bill primarily focuses on content moderation by prohibiting harmful advertising to minors, includes privacy elements through content removal rights, and addresses broader online safety concerns. The governance approach centers on regulating harmful content rather than data collection practices."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to student and educator data privacy",
+    "description": "Significantly restricts school tech vendors' use of student data and require data security practices;  requires that contracts between schools and vendors detail privacy and data security issues;  instruct the creation and implementation of data security and privacy regulations for educational entities.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Education and research",
+      "Cybersecurity"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This bill primarily focuses on student data privacy protection, educational technology vendor regulation, and data security requirements in school settings. Privacy is the core issue, Education and research captures the school/educational context, and Cybersecurity addresses the data security practices and regulations required."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act concerning media literacy in schools",
+    "description": "Directs department of education to integrate media literacy, including Internet safety, into K-12 education.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Education and research",
+      "Online safety",
+      "Disinformation"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on integrating media literacy education into K-12 curriculum, which falls under Education and research. Online safety is included as the bill specifically mentions Internet safety components. Disinformation is relevant as media literacy education typically addresses identifying and evaluating information credibility and misinformation."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to the enticement of children online",
+    "description": "Adds online approaches to the established offence of enticement.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Government Surveillance",
+    "llm_tags": [
+      "Online safety",
+      "Liability"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "This bill specifically addresses online enticement of children by adding online approaches to existing criminal offenses. 'Online safety' captures the digital protection aspect, while 'Liability' reflects the criminal law enforcement mechanism. The governance remains 'Government Surveillance' as it involves law enforcement monitoring and prosecution of online criminal activity."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images",
+    "description": "Creates diversion program for teenagers regarding sexting and cyberbullying;  creates offence of distributing intimate images in cyberbullying context;  revises related penalties.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Online safety",
+      "Hate and harassment",
+      "Liability"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill specifically addresses sexting and cyberbullying among teens, creating diversion programs and penalties for distributing intimate images. The focus on online safety, harassment behaviors, and legal liability for image distribution makes it primarily a content moderation issue rather than platform design changes."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act establishing the Massachusetts Data Privacy Protection Act",
+    "description": "Includes prohibition on targeted advertising to minors and requirement to assess and mitigate privacy risks to minors.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Algorithms",
+      "Transparency"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Primary focus is privacy protection through prohibiting targeted advertising to minors and requiring privacy risk assessments. Algorithms tag captures the targeted advertising restrictions, and Transparency reflects the risk assessment and mitigation requirements."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to student and educator data privacy",
+    "description": "Significantly restricts school tech vendors' use of student data and require data security practices;  requires that contracts between schools and vendors detail privacy and data security issues;  instruct the creation and implementation of data security and privacy regulations for educational entities.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Education and research",
+      "Cybersecurity"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This bill primarily focuses on student data privacy protection, educational technology vendor regulation, and data security requirements in school settings. Privacy is the core issue, Education and research captures the school/educational context, and Cybersecurity addresses the data security practices and regulations required."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images",
+    "description": "Creates diversion program for teenagers regarding sexting and cyberbullying;  creates offence of distributing intimate images in cyberbullying context;  revises related penalties.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Hate and harassment",
+      "Liability"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily addresses online safety through sexting and cyberbullying regulations, creates specific harassment offenses for intimate image distribution, and establishes liability frameworks with diversion programs and penalties for these behaviors."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images",
+    "description": "Creates diversion program for teenagers regarding sexting and cyberbullying;  creates offence of distributing intimate images in cyberbullying context;  revises related penalties.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Hate and harassment",
+      "Liability"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily addresses online safety through sexting and cyberbullying regulations, creates specific harassment offenses for intimate image distribution, and establishes liability frameworks with diversion programs and penalties for these behaviors."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Social media algorithms that target children prohibited.",
+    "description": "Prohibits social media platforms serving content to minors via recommendation algorithms (except search results). Require parental consent for minors to open accounts.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Algorithms",
+      "Online safety",
+      "Authorisation, registration and licensing"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Primary focus is on prohibiting recommendation algorithms for minors (Algorithms), broader online safety protections (Online safety), and requiring parental consent for account creation (Authorisation). Governance involves mandating platform design changes rather than content moderation."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Human Trafficking and Child Exploitation Prevention Act established, rulemaking provided, and report required.",
+    "description": "Requires device retailers to have web filters that are enabled at activation and only disabled by adults paying a fee.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Online safety",
+      "Liability"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill mandates web filters on devices and creates a fee-based system for adults to disable them, which is primarily a content moderation mechanism. It addresses online safety through filtering requirements and creates liability/compliance obligations for device retailers."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Minnesota Age-Appropriate Design Code Act created, obligations placed on businesses regarding children's consumer information, and attorney general enforcement provided.",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Design and testing standards",
+      "Online safety"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Privacy is primary due to data use restrictions and default protective settings. Design and testing standards captures the impact assessments and mitigation plans requirement. Online safety covers the broader harm prevention focus. Governance remains Platforms + Democracy as it requires platform design changes and impact assessments."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Human Trafficking and Child Exploitation Prevention Act",
+    "description": "Requires device retailers to have web filters that are enabled at activation and only disabled by adults paying a fee.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Online safety",
+      "Liability"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on mandatory web filtering (content moderation), online safety through device-level restrictions, and creates liability/compliance requirements for device retailers. The fee-based opt-out mechanism and mandatory filtering at activation are classic content moderation approaches."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Certain social media algorithms that target children prohibition",
+    "description": "Prohibits social media platforms serving content to minors via recommendation algorithms (except search results). Require parental consent for minors to open accounts.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Algorithms",
+      "Online safety",
+      "Authorisation, registration and licensing"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Primary focus is on prohibiting recommendation algorithms for minors (Algorithms), broader online safety protections (Online safety), and requiring parental consent for account creation (Authorisation). Governance involves mandating platform design changes rather than content moderation."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Minnesota Age-Appropriate Design Code Act",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Design and testing standards",
+      "Online safety"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Privacy is primary due to data use restrictions and protective default settings. Design and testing standards captures the impact assessments and mitigation plans requirement. Online safety covers the broader harm prevention focus. Governance remains Platforms + Democracy as it requires platform design changes and impact assessments."
+  },
+  {
+    "state": "Mississippi",
+    "name": "Minors;  hold entities that publish harmful material on the internet civilly liable if age vertification is not performed.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Liability",
+      "Privacy"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification requirements, creates civil liability for non-compliance, and involves privacy considerations through ID verification and data retention restrictions"
+  },
+  {
+    "state": "Mississippi",
+    "name": "Digital or online resources or databases;  require vendors to verify technology protection for persons under 15.",
+    "description": "Includes: requiring online content vendors to schools to use filters;  prohibiting enticing minors to sexual acts via online communication.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Online safety"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Bill focuses on content filtering requirements for vendors and prohibiting sexual solicitation of minors online, which are content moderation mechanisms rather than platform design changes"
+  },
+  {
+    "state": "Mississippi",
+    "name": "Pornographic online and digital/resources for K-12 students;  prohibit",
+    "description": "Requires online content vendors to schools to use filters.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Education and research",
+      "Online safety"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Bill mandates content filtering for pornographic material in K-12 educational settings, combining content moderation requirements with educational technology regulation and broader online safety protections for students"
+  },
+  {
+    "state": "Mississippi",
+    "name": "Material harmful to minors;  provide for liability for any entity that distributes on the internet without age verification.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Liability",
+      "Privacy"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification requirements, creates liability framework for non-compliant entities, and includes privacy protections by prohibiting ID information retention"
+  },
+  {
+    "state": "Mississippi",
+    "name": "Material harmful to minors;  provide for liability for any entity that distributes on the internet without age verification",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Liability",
+      "Privacy"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification requirements, creates liability for non-compliant entities, and includes privacy protections by prohibiting ID information retention"
+  },
+  {
+    "state": "Missouri",
+    "name": "Requires internet service providers to authenticate access to obscene websites and provide subscribers the ability to create an authentication to access such websites",
+    "description": "Requires that ISPs enable a web filtering service, bypassable with passcode. Prohibits sharing code with minor.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Internet access",
+      "Authorisation, registration and licensing"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on content moderation by requiring ISPs to filter obscene websites, affects internet access through mandatory filtering services, and creates licensing/regulatory requirements for ISPs regarding authentication systems."
+  },
+  {
+    "state": "Montana",
+    "name": "Generally revise pupil data privacy protections",
+    "description": "Limits use of facial recognition in schools to specific purposes and prohibits vendors from using that data beyond providing the service;  tightens up existing data privacy rules in schools.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Privacy",
+      "Artificial intelligence",
+      "Education and research"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Bill primarily focuses on student data privacy protections and specifically regulates facial recognition technology (AI) in educational settings, restricting vendor data use beyond service provision"
+  },
+  {
+    "state": "Montana",
+    "name": "Revise internet laws related to material harmful to minors",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification for pornographic content, with privacy implications from ID verification requirements and content moderation aspects through website access restrictions"
+  },
+  {
+    "state": "Nebraska",
+    "name": "Create the offense of digital grooming and prohibit using an electronic communication device or social media to engage in certain conduct with minors",
+    "description": "Prohibits online communication by adults with under 16s to entice sexual activity.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Hate and harassment",
+      "Liability"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill creates a new criminal offense for digital grooming, focusing on online safety through prohibiting specific harmful communications. It addresses harassment-type behavior and creates liability for adults engaging in prohibited conduct with minors online."
+  },
+  {
+    "state": "Nebraska",
+    "name": "Provide requirements regarding access to digital and online resources provided for students by school districts, schools, and the Nebraska Library Commission",
+    "description": "Requiring online content vendors to schools to use filters and provide parental access to content accessed by their child.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Privacy",
+      "Education and research"
+    ],
+    "llm_governance": "Content moderation/Free Speech",
+    "reasoning": "Bill requires content filtering by vendors and parental access to student digital content, making content moderation the primary focus. Privacy is relevant due to parental access provisions. Education context is important as it specifically targets school districts and educational resources."
+  },
+  {
+    "state": "Nevada",
+    "name": "Establishes provisions relating to Internet privacy. (BDR 52-589)",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  default privacy settings to most protective for child users. Use of user data for children highly restricted. ",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Online safety",
+      "Design and testing standards"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Primary focus on privacy protections (default settings, data use restrictions), online safety through impact assessments, and platform design requirements. Governance remains Platforms + Democracy as it mandates structural changes through impact assessments and design standards."
+  },
+  {
+    "state": "New Hampshire",
+    "name": "making an appropriation to support the work of the New Hampshire Internet Crimes Against Children Task Force",
+    "description": "Appropriates funding for the New Hampshire Internet Crimes Against Children Task Force.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Government Surveillance",
+    "llm_tags": [
+      "Cybersecurity",
+      "National Security"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "This bill appropriates funding for a law enforcement task force focused on internet crimes against children, which primarily involves cybersecurity investigations and national security concerns through government surveillance and enforcement activities."
+  },
+  {
+    "state": "New Hampshire",
+    "name": "AN ACT relative to the expectation of privacy.",
+    "description": "General data privacy bill that categorizes all personal data relating to minors as \"sensitive.\"",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This bill's primary focus is on data privacy protections for minors by categorizing all their personal data as sensitive, making Privacy the most specific and relevant tag. Online safety is included as a secondary tag since the privacy protections are aimed at enhancing child safety online."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Provides that required instruction on sexual abuse and assault awareness and prevention in grades preschool through 12 include content on Internet safety and dangers of online predators.",
+    "description": "Adds Internet safety / online predators to PS-12 sexual abuse awareness and prevention curriculum.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Online safety",
+      "Education and research"
+    ],
+    "llm_governance": "Education and research",
+    "reasoning": "This bill mandates curriculum changes to include internet safety and online predator awareness in educational settings, making it primarily an education policy rather than platform regulation. The focus is on teaching students about online safety through required instruction."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Establishes \"Internet Predator Investigation and Prosecution Fund\" with $200 assessment on persons convicted of certain offenses.",
+    "description": "Establishes fund for AG to investigate and prosecute enticement of minors via the Internet with $200 fines from those convicted of hacking crimes or sexual offences.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Government Surveillance",
+    "llm_tags": [
+      "Online safety",
+      "Taxation",
+      "Cybersecurity"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "Primary focus is online safety enforcement through government investigation/prosecution fund. Taxation tag applies due to $200 assessment mechanism for funding. Cybersecurity relevant due to hacking crime component of funding source."
+  },
+  {
+    "state": "New Jersey",
+    "name": "One Strike, You're Ours;  adds use of Internet as aggravating factor in child sex crimes and requires lifetime electronic monitoring of offender.",
+    "description": "Adds use of Internet as aggravating factor in child sex crimes and requires lifetime electronic monitoring of offenders.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Government Surveillance",
+    "llm_tags": [
+      "Online safety",
+      "Liability",
+      "National Security"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "This bill focuses on online safety by treating internet use as an aggravating factor in child sex crimes, creates liability through enhanced penalties, and involves national security through lifetime electronic monitoring of offenders. The government surveillance governance category fits as it establishes a monitoring program for convicted offenders."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Human Trafficking and Child Exploitation Prevention Act;  requires Internet-connected devices to have blocking capability in certain circumstances.",
+    "description": "Requires device manufacturers/ retailers to have filters;  when sold to minor pornography blocking must be enabled at activation;  CSAM, NCII, child trafficking and prostitution blocked for all;  filters only disabled by adults paying a fee.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Online safety",
+      "Design and testing standards"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on content filtering requirements for devices, mandating specific design standards for manufacturers to block harmful content, and regulating online safety through technical implementation requirements."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Requires sex offenders to report Internet identifiers and name changes.",
+    "description": "Requires sex offenders to report Internet identifiers.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "National Security",
+      "Cybersecurity"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "This bill requires sex offenders to report internet identifiers to authorities, which is primarily a government surveillance/monitoring mechanism for online safety and national security purposes, rather than content moderation or platform regulation."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Concerns social media privacy and data management for children and establishes New Jersey Children's Data Protection Commission.",
+    "description": "Require online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children, especially relating to data collection;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted. Establishes working group to develop best practices.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Design and testing standards",
+      "Transparency"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Primary focus is on data protection and privacy restrictions for children's data, with requirements for impact assessments and design standards (default privacy settings), plus transparency through reporting requirements. Governance is Privacy/Data Rights as it heavily restricts data collection/use from minors."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Prohibits social media platforms from using certain practices or features that cause child users to become addicted to platform.",
+    "description": "Prohibits social media platforms from using design that is addictive to minors;  exempts those that conduct quarterly assessments and mitigations.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Government Surveillance",
+    "llm_tags": [
+      "Design and testing standards",
+      "Algorithms",
+      "Public health"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "This bill specifically targets addictive design practices and features on social media platforms, requiring design standards and quarterly assessments. It focuses on algorithmic and design elements that create addiction, treating this as a public health issue. The governance approach mandates platform design changes and impact assessments rather than content moderation or data restrictions."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Human Trafficking and Child Exploitation Prevention Act;  requires Internet-connected devices to have blocking capability in certain circumstances.",
+    "description": "Requires device manufacturers/ retailers to have filters;  when sold to minor pornography blocking must be enabled at activation;  CSAM, NCII, child trafficking and prostitution blocked for all;  filters only disabled by adults paying a fee.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Online safety",
+      "Design and testing standards"
+    ],
+    "llm_governance": "Content moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on mandatory content filtering/blocking capabilities on devices, which is content moderation. It requires specific design standards for internet-connected devices and addresses online safety through technical requirements. The governance approach involves regulating harmful content access through device-level controls and age verification mechanisms."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Establishes \"Internet Predator Investigation and Prosecution Fund\" with $200 assessment on persons convicted of certain offenses.",
+    "description": "Establishes fund for AG to investigate and prosecute enticement of minors via the Internet with $200 fines from those convicted of hacking crimes or sexual offences.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Online safety",
+      "Subsidies and industrial policy",
+      "Taxation"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "This bill establishes a government fund for investigating and prosecuting internet predators through taxation/fines on convicted offenders. The primary focus is on funding law enforcement activities (government surveillance approach) rather than regulating platforms or content directly. The taxation aspect and creation of a specialized fund make this distinct from other child safety bills."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Provides that required instruction on sexual abuse and assault awareness and prevention in grades preschool through 12 include content on Internet safety and dangers of online predators.",
+    "description": "Adds Internet safety / online predators to PS-12 sexual abuse awareness and prevention curriculum.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Online safety",
+      "Education and research"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "Primary focus is online safety education about predators, integrated into mandatory curriculum. Governance involves government-mandated educational programs rather than platform regulation."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Concerns social media privacy and data management for children and establishes New Jersey Children's Data Protection Commission.",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children, especially relating to data collection;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted. Establishes working group to develop best practices.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Design and testing standards",
+      "Transparency"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Primary focus is on data collection restrictions and privacy protections for children, with requirements for impact assessments (design standards) and age estimation/disclosure requirements (transparency). The governance approach centers on restricting data collection/use from minors rather than platform design changes."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Prohibits social media platforms from using certain practices or features that cause child users to become addicted to platform.",
+    "description": "Prohibits social media platforms from using design that is addictive to minors;  exempts those that conduct quarterly assessments and mitigations.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Design and testing standards",
+      "Public health",
+      "Algorithms"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "This bill specifically targets addictive design features and requires quarterly assessments, making it primarily about design standards and platform modifications. Public health addresses addiction concerns, and algorithms relates to the underlying mechanisms creating addictive experiences."
+  },
+  {
+    "state": "New Mexico",
+    "name": "Age Appropriate Design Code Act",
+    "description": "Requires online services likely to be used by children to prioritize the well-being of children over commercial interests;  conduct impact assessments and mitigation plans for harm to children;  estimate ages of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Design and testing standards",
+      "Online safety"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "This bill primarily focuses on privacy protections through data use restrictions and default privacy settings, mandates specific design standards for child-friendly platforms, and requires impact assessments - which aligns with platform design changes governance approach."
+  },
+  {
+    "state": "New York",
+    "name": "Directs the commissioner of education to appoint a media literacy advisory group to study the teaching of media literacy;  requires such group to survey all school districts",
+    "description": "Establishes advisory committee to make recommendations regarding teaching media literacy, including Internet safety, in schools.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Education and research",
+      "Online safety"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "Bill establishes advisory group to study and make recommendations on media literacy education including internet safety. Primary focus is educational research and curriculum development, with secondary focus on online safety aspects. Governance involves government-appointed study group for monitoring and recommendations."
+  },
+  {
+    "state": "New York",
+    "name": "Directs the commissioner of education to appoint a media literacy advisory committee to study the teaching of media literacy;  requires such committee to annually review policy on media literacy",
+    "description": "Establishes advisory committee to make recommendations regarding teaching media literacy, including Internet safety, in schools.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Education and research",
+      "Online safety"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "Primary focus is establishing an advisory committee to study and make recommendations about media literacy education in schools, including internet safety components. This is a government study/monitoring program rather than direct regulation."
+  },
+  {
+    "state": "New York",
+    "name": "Prevents interactive computer service providers from knowingly or negligently promoting developed content that is dangerous or otherwise injurious to minors",
+    "description": "Prohibits online services harming minors by serving them targeted content that they (at least partially) developed.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Algorithms",
+      "Liability"
+    ],
+    "llm_governance": "Content moderation/Free Speech",
+    "reasoning": "This bill targets interactive computer services that develop and serve targeted content to minors, focusing on content moderation responsibilities, algorithmic content delivery systems, and establishing liability for harmful content promotion to minors."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to creating a set of media literacy standards for students in grades kindergarten through twelve",
+    "description": "Requires K-12 school to add media literacy to the curriculum, including Internet safety and privacy.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Education and research",
+      "Online safety",
+      "Privacy"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "This bill primarily focuses on education by mandating media literacy curriculum in K-12 schools. It specifically addresses online safety and privacy as components of the media literacy standards, making these the most specific and distinguishing tags for this educational approach to child online safety."
+  },
+  {
+    "state": "New York",
+    "name": "Prohibits cyber-bullying",
+    "description": "Creates offence of cyberbullying.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Hate and harassment",
+      "Online safety",
+      "Liability"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill specifically targets cyberbullying by creating a criminal offense, which directly addresses hate and harassment online. It relates to online safety through digital harm prevention and involves liability by establishing legal consequences for cyberbullying behavior."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to enacting the New York child data privacy and protection act",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  default privacy settings to most protective for child users;  parents must consent to accept Terms of Use and privacy policy. AG bureau of Internet and technology may ban specific features. Use of user data for children highly restricted.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Design and testing standards",
+      "Online safety"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Primary focus on data privacy restrictions for children, mandatory impact assessments and design standards for platforms, with broader online safety protections through default privacy settings and parental consent requirements"
+  },
+  {
+    "state": "New York",
+    "name": "Offers parental controls for internet services",
+    "description": "Requires ISPs to make filtering and tracking software available to parents.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Internet access",
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This bill focuses on ISP requirements to provide parental control tools including filtering and tracking software, making it primarily about internet access regulation and privacy controls rather than content moderation or platform design changes."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to the uniform employee and student online privacy protection act",
+    "description": "Includes privacy protections for student data, especially login credentials.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Education and research"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Bill focuses on privacy protections for student data and login credentials in educational settings, making Privacy the primary tag and Education and research secondary. Governance is Privacy/Data Rights as it restricts data collection/use from students."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to prohibiting a person required to register under the sex offender registration act from possessing an online gamer account",
+    "description": "Prohibits registered sex offenders from having gaming accounts.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Online safety",
+      "Authorisation, registration and licensing"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill focuses on online safety by restricting gaming platform access for registered sex offenders, and involves licensing/registration requirements by linking to existing sex offender registration systems. The governance approach regulates platform access similar to content moderation restrictions."
+  },
+  {
+    "state": "New York",
+    "name": "Prevents interactive computer service providers from knowingly or negligently promoting developed content that is dangerous or otherwise injurious to minors",
+    "description": "Prohibits online services harming minors by serving them targeted content that they (at least partially) developed.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Algorithms",
+      "Liability"
+    ],
+    "llm_governance": "Content moderation/Free Speech",
+    "reasoning": "This bill targets interactive computer services that develop and serve targeted content to minors, focusing on content moderation responsibilities, algorithmic content delivery systems, and establishing liability for harmful content promotion to minors."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to enacting the New York child data privacy and protection act",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  default privacy settings to most protective for child users;  parents must consent to accept Terms of Use and privacy policy. AG Bureau of Internet and Technology may ban specific features. Use of user data for children highly restricted.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Design and testing standards",
+      "Online safety"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Privacy is the primary focus given data collection restrictions and default protective settings. Design and testing standards captures the impact assessments and mitigation plans requirement. Online safety covers the broader harm prevention aspects. Governance remains Platforms + Democracy as it requires platform design changes and impact assessments."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to the registration information required to be reported by a sex offender",
+    "description": "Includes adding Internet identifiers to sex offenders register.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Transparency"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "This bill focuses on expanding sex offender registration requirements to include internet identifiers, which is primarily a government surveillance/monitoring mechanism for online safety. Privacy is relevant due to data collection requirements, and Transparency applies to the public registry aspect."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to the regulation of social media companies and social media platforms",
+    "description": "Requires parental approval for minors to have social media accounts;  requires age verification. Minor accounts: limited discoverability and communication;  allow parental access;  limited data use;  curfewed by default;  parents can set time limits.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Authorisation, registration and licensing"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This bill primarily focuses on online safety protections for minors through parental approval requirements and account restrictions. Privacy is central due to limited data use provisions. Authorization/licensing captures the parental approval and age verification requirements that regulate platform access."
+  },
+  {
+    "state": "North Carolina",
+    "name": "Age Verification to Protect Children Act.",
+    "description": "Requires age verification to access websites that are more than one-third pornography.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Bill focuses on online safety through age verification requirements for pornographic websites, which directly involves content moderation and free speech considerations around access restrictions"
+  },
+  {
+    "state": "North Carolina",
+    "name": "Social Media Algorithmic Control in IT Act.",
+    "description": "Prohibits social media platforms using minor users' data for recommendation algorithms and targeted advertising. Establishes task force to report on data privacy and social media [precise remit unclear].",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Algorithms",
+      "Privacy",
+      "Transparency"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Bill specifically targets algorithmic recommendation systems using minor data, restricts data collection/use practices, and establishes reporting mechanisms for transparency. Primary focus is data rights protection rather than content moderation."
+  },
+  {
+    "state": "North Carolina",
+    "name": "Let Parents Choose/Sammy's Law of 2023",
+    "description": "Requires social media platforms to make APIs available to facilitate the development and use of third-party safety software to control / monitor platform settings and interactions. Platforms must obtain and renew state permits.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Authorisation, registration and licensing",
+      "Online safety",
+      "Other operating conditions"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "The bill requires state permits for platforms (licensing), mandates API availability for third-party safety software (platform design changes), and creates operational requirements beyond basic content moderation - focusing on structural platform obligations rather than content regulation."
+  },
+  {
+    "state": "North Dakota",
+    "name": "[R]elating to the definition of a public library and required safety policies and technology protection measures;  ... relating to obscenity control;  to provide a penalty;  and to provide for application.",
+    "description": "Requires online content vendors to schools (and libraries when making content available to school-age children) to use filters.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Education and research",
+      "Public procurement"
+    ],
+    "llm_governance": "Content moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on content filtering requirements for online vendors serving schools and libraries, making it fundamentally about content moderation. Education and research captures the school/library context, while public procurement reflects the vendor relationship requirements."
+  },
+  {
+    "state": "Ohio",
+    "name": "Regards education records and student data privacy",
+    "description": "Strictly limits school tech vendors' use of student data;  prohibits schools and vendors tracking or recording students via devices.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Education and research"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Bill primarily focuses on student data privacy by restricting how school tech vendors can use student data and prohibiting tracking/recording via devices. Education tag captures the school context that distinguishes this from general child privacy bills."
+  },
+  {
+    "state": "Oklahoma",
+    "name": "Human trafficking and child exploitation;  creating the Human Trafficking and Child Exploitation Prevention Act;  directing retailers of Internet-enabled devices to equip products with certain filters;  codification;  effective date.",
+    "description": "Requires device retailers / manufacturers to have filters that are enabled at activation and only disabled by adults paying a fee.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Online safety",
+      "Liability"
+    ],
+    "llm_governance": "Content moderation/Free Speech",
+    "reasoning": "This bill mandates content filtering on internet-enabled devices with paid opt-out, directly regulating content moderation mechanisms. It creates liability requirements for retailers/manufacturers and focuses on online safety through mandatory filtering systems."
+  },
+  {
+    "state": "Oregon",
+    "name": "Relating to business's use of age-appropriate design",
+    "description": "Requires online services likely to be used by children to prioritize the well-being of children over commercial interests;  conduct impact assessments and mitigation plans for harm to children;  default privacy settings to most protective for child users;  enforce their own policies. Use of user data for children highly restricted. Establishes task force to report on best practices.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Design and testing standards",
+      "Online safety"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "This bill primarily focuses on privacy protections through data use restrictions, mandates design standards like default protective settings and impact assessments, and addresses broader online safety. The governance approach requires platform design changes and impact assessments rather than content moderation or pure data restrictions."
+  },
+  {
+    "state": "Pennsylvania",
+    "name": "An Act providing for protection of certain personal data of consumers;  imposing duties on controllers and processors of personal data of consumers;  providing for enforcement;  prescribing penalties;  and establishing the Consumer Privacy Fund.",
+    "description": "General data privacy bill that categorizes all personal data relating to minors as \"sensitive.\"",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Transparency"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This is a general data privacy bill that specifically categorizes minor data as sensitive, focusing on data protection rights and controller/processor duties rather than content moderation or platform design changes."
+  },
+  {
+    "state": "Pennsylvania",
+    "name": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, making editorial changes to replace references to the term \"child pornography\" with references to the term \"child sexual abuse material.\"",
+    "description": "Replaces references \"child pornography\" with \"child sexual abuse material\" in existing law.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Online safety",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill focuses on updating terminology around child sexual abuse material in existing criminal law, which directly relates to online safety enforcement and content regulation. The change from 'child pornography' to 'child sexual abuse material' reflects modern approaches to content moderation and legal frameworks addressing harmful content."
+  },
+  {
+    "state": "Pennsylvania",
+    "name": "An Act amending the act of November 30, 2004 (P.L.1556, No.197), known as the Child Internet Protection Act, further providing for title and for definitions;  and making editorial changes.",
+    "description": "Replaces references \"child pornography\" with \"child sexual abuse material\" in existing law.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content moderation/Free Speech",
+    "reasoning": "This bill updates terminology in existing child internet protection law by replacing 'child pornography' with 'child sexual abuse material', which is primarily a content classification and moderation issue affecting how harmful content is defined and regulated."
+  },
+  {
+    "state": "Rhode Island",
+    "name": "AN ACT RELATING TO EDUCATION -- STUDENT COMPUTER DEVICE PRIVACY",
+    "description": "Prohibits schools and vendors tracking or recording students via devices in most cases.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Education and research"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Bill specifically prohibits tracking/recording students via school devices, making Privacy the primary focus. Education and research captures the school context. Governance is Privacy/Data Rights as it restricts data collection practices regarding minors in educational settings."
+  },
+  {
+    "state": "Rhode Island",
+    "name": "AN ACT RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- RHODE ISLAND DATA TRANSPARENCY AND PRIVACY PROTECTION ACT (Provides data privacy protections for the personal identifiable information of Rhode Islanders.)",
+    "description": "General data privacy bill that categorizes all personal data relating to children as \"sensitive\";  prohibits processing or selling personal data of minor customers.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Transparency"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This is primarily a general data privacy bill that treats children's data as sensitive and prohibits processing/selling minor data. The transparency aspect comes from the bill's name referencing 'Data Transparency.' The governance clearly falls under Privacy/Data Rights as it restricts data collection and use from minors."
+  },
+  {
+    "state": "Rhode Island",
+    "name": "AN ACT RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- RHODE ISLAND DATA TRANSPARENCY AND PRIVACY PROTECTION ACT (Provides data privacy protections for the personal identifiable information of Rhode Islanders.",
+    "description": "General data privacy bill that categorizes all personal data relating to children as \"sensitive\";  prohibits processing or selling personal data of minor customers.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Transparency"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This is primarily a comprehensive data privacy bill that treats children's data as sensitive and restricts processing/selling of minors' personal data. The transparency aspect comes from the bill's name indicating data transparency protections. The governance approach focuses on restricting data collection and use from minors."
+  },
+  {
+    "state": "South Carolina",
+    "name": "Child Online Safety Act",
+    "description": "Requires age verification to access websites or apps that are principally pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Bill requires age verification for pornography sites (online safety/content moderation), involves ID collection and retention restrictions (privacy), and regulates access to adult content (content moderation). Primary governance approach is content moderation through age verification requirements."
+  },
+  {
+    "state": "South Carolina",
+    "name": "Child Online Safety Act",
+    "description": "Requires age verification to access websites or apps that are principally pornography.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Online safety"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Bill specifically requires age verification for pornography websites/apps, which is a content moderation approach to online safety rather than broader platform regulation or privacy-focused measures"
+  },
+  {
+    "state": "South Carolina",
+    "name": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 63-5-380 SO AS TO PROHIBIT THE COLLECTION OF PERSONAL INFORMATION FROM CHILDREN BY OPERATORS OF WEBSITES, ONLINE SERVICES, AND ONLINE OR MOBILE APPLICATIONS AND TO ESTABLISH PENALTIES.",
+    "description": "Prohibits online services from collecting personal information of minors.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Bill specifically prohibits collection of personal information from children by online operators, making privacy the primary focus. Online safety is secondary as it's the broader protective goal. Governance is clearly Privacy/Data Rights as it restricts data collection practices."
+  },
+  {
+    "state": "South Carolina",
+    "name": "Social media regulation",
+    "description": "Prohibits online services using an \"automated decision system for content placement\" for minors. Requires age verification to use them.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Algorithms",
+      "Online safety",
+      "Authorisation, registration and licensing"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Bill specifically targets automated decision systems for content placement (algorithms), requires age verification systems (authorization/licensing), and mandates platform design changes to protect minors online, fitting the platforms + democracy governance model."
+  },
+  {
+    "state": "South Carolina",
+    "name": "Children's Default to Safety Act",
+    "description": "Requires tablet/smartphone manufacturers to have filters that are enabled at activation and only bypassed or switched off with password. Crime for non-parents to deactivate filter and allow minors to access harmful content.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Design and testing standards",
+      "Liability"
+    ],
+    "llm_governance": "Content moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on content filtering requirements (content moderation), mandates specific device design standards for manufacturers, and creates criminal liability for non-parents who bypass filters - distinguishing it from other child safety bills through its hardware-focused approach and criminal penalties."
+  },
+  {
+    "state": "South Dakota",
+    "name": "An Act to provide liability for the publishing or distributing of material harmful to minors on the internet and the wrongful retention of individually identifiable information.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Liability"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Bill focuses on online safety through age verification requirements, privacy protection by prohibiting retention of ID information, and establishes liability framework for publishers/distributors of harmful content to minors"
+  },
+  {
+    "state": "Tennessee",
+    "name": "Enacts the \"Tennessee Information Protection Act.\"",
+    "description": "General data privacy bill that categorizes all personal data relating to children as \"sensitive\".",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This is a general data privacy bill that specifically categorizes children's personal data as sensitive, making privacy the primary focus with online safety as secondary since it addresses digital protection of minors through data restrictions."
+  },
+  {
+    "state": "Tennessee",
+    "name": "Enacts the \"Youth Mental Health Safety Act.",
+    "description": "Requires tablet/smartphone manufacturers to have filters that are enabled at activation and only bypassed or switched off with password.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Design and testing standards",
+      "Public health",
+      "Online safety"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "This bill mandates specific design requirements (default filters) for device manufacturers, focuses on mental health protection as a public health measure, and requires platform/device design changes rather than content moderation or data restrictions."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to the regulation of the collection, use, processing, and treatment of consumers' personal data by certain business entities;  imposing a civil penalty.",
+    "description": "Requires age verification to use social media platforms. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Privacy",
+      "Online safety",
+      "Authorisation, registration and licensing"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Bill focuses on personal data regulation and age verification requirements for social media platforms, with prohibition on retaining ID information - primarily a privacy/data protection measure with licensing/authorization elements for platform compliance"
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to the protection of minors from harmful, deceptive, or unfair trade practices in connection with the use of certain digital services.",
+    "description": "Prohibits social media platforms serving content to minors via recommendation algorithms.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": null,
+    "llm_tags": [
+      "Algorithms",
+      "Online safety",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Bill specifically targets recommendation algorithms on social media platforms serving content to minors, making 'Algorithms' the most specific and distinguishing tag. 'Online safety' captures the protective intent, while 'Content moderation/Free Speech' reflects the content delivery restrictions. Governance is 'Platforms + Democracy' as it requires platform design changes to their algorithmic systems."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to prohibiting use of social media platforms by children.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Bill focuses on age verification for pornographic content access, which involves online safety protections, privacy concerns around ID retention, and content moderation mechanisms. The governance approach centers on regulating access to adult content through verification requirements."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to restricting access to sexual material harmful to minors on an Internet website.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification for adult content, with privacy implications from ID verification requirements and content moderation aspects through access restrictions"
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to prohibiting social media platforms from using certain social media algorithms to target minors.",
+    "description": "Requires online services that are likely to be used by minors and collect personal user data to obtain parental consent to create an account for a minor or accept Terms of Service / EUAs.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Algorithms",
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Bill specifically targets social media algorithms used on minors (Algorithms), requires parental consent for data collection (Privacy), and focuses on online safety measures. The governance approach requires platform design changes through algorithm restrictions and consent mechanisms rather than just content moderation."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to requirements for the use and transfer of electronic devices to students by a public school.",
+    "description": "Requires the adoption of policies for student-held school-owned devices that limit data collection, require parental consent for software, curfew, possibly limit access to social media and report harm-related content to schools and parents. Devices must have pornography filters and schools to educate parents about Internet safety.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Online safety",
+      "Education and research"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Primary focus on data collection limitations and parental consent (Privacy), pornography filters and harm reporting (Online safety), and parent education requirements (Education and research). Privacy/Data Rights governance fits the bill's emphasis on restricting data collection from student devices and requiring parental consent."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to restricting access to sexual material harmful to minors on an Internet website.",
+    "description": "Requires age verification to access websites that intentionally publish pornography. Includes social media platforms that fail to remove / block minor access to pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Liability"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification requirements for adult content. Privacy is relevant due to ID verification and data retention restrictions. Liability applies as platforms face consequences for non-compliance with access restrictions."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to restricting access to sexual material harmful to minors on an Internet website.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification for adult content, with privacy implications from ID verification requirements and content moderation aspects through access restrictions"
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to online agreements between certain minors and certain digital service providers.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Bill focuses on age verification for pornographic content (online safety), requires ID verification but prohibits retention (privacy concerns), and regulates access to adult content (content moderation). The governance approach centers on content moderation through age verification requirements."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to the regulation of Internet products, services, and features accessed by children;  providing a civil penalty.",
+    "description": "Requires online services likely to be used by children that collect user data to conduct impact assessments and mitigation plans for harm to children from design or data usage;  estimate ages of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted. Establishes work group to recommend best practices. ",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Platforms + Democracy",
+    "llm_tags": [
+      "Privacy",
+      "Design and testing standards",
+      "Online safety"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "Privacy is primary focus due to data collection restrictions and protective default settings. Design and testing standards captures the impact assessments and mitigation plans requirement. Online safety covers the broader harm prevention mandate. Governance remains Platforms + Democracy as it requires platform design changes and impact assessments."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to requirements for certain Internet websites containing sexual material harmful to minors;  providing a civil penalty.",
+    "description": "Relating to requirements for certain Internet websites containing sexual material harmful to minors;  providing a civil penalty.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Government Surveillance",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Online safety"
+    ],
+    "llm_governance": "Content moderation/Free Speech",
+    "reasoning": "This bill requires age verification for websites with sexual content harmful to minors and imposes civil penalties, making it primarily a content moderation issue with online safety implications rather than government surveillance."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to requirements for certain Internet websites containing sexual material harmful to minors;  providing a civil penalty.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on online safety through age verification requirements for pornographic websites, involves privacy concerns due to ID verification processes, and relates to content moderation by regulating access to adult content."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to restricting access to sexual material harmful to minors on an Internet website.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification for adult content, with privacy implications from ID verification requirements and content moderation aspects through access restrictions"
+  },
+  {
+    "state": "Utah",
+    "name": "Social Media Usage Amendments",
+    "description": "Prohibits social media platforms from using design that is addictive to minors;  exempts those that conduct quarterly assessments and mitigations. Creates a civil cause of action against platforms for any harm caused to minors from using the platform.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Design and testing standards",
+      "Algorithms",
+      "Liability"
+    ],
+    "llm_governance": "Platforms + Democracy",
+    "reasoning": "This bill specifically targets addictive design features and algorithmic manipulation (Design and testing standards, Algorithms), creates civil liability for platforms (Liability), and requires quarterly assessments and platform design changes (Platforms + Democracy governance approach)."
+  },
+  {
+    "state": "Utah",
+    "name": "Social Media Regulation Amendments",
+    "description": "Requires age verification to open social media accounts without parental consent (retaining ID information prohibited). For minor accounts: messaging and discoverability limited, advertising, suggestions, and most data collection prohibited;  curfew enabled. Parents to receive access to posts by minor and ability to set time limits.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Privacy",
+      "Online safety",
+      "Authorisation, registration and licensing"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This bill primarily focuses on privacy through data collection restrictions and parental access controls, online safety through messaging/discoverability limits and curfews, and authorization through age verification requirements. The governance approach centers on restricting data collection/use from minors rather than content moderation."
+  },
+  {
+    "state": "Utah",
+    "name": "Online Pornography Viewing Age Requirements",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Privacy",
+      "Content moderation/Free Speech"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification for pornographic content, with privacy implications due to ID verification requirements and prohibition on retaining ID information, and content moderation aspects through website access restrictions"
+  },
+  {
+    "state": "Vermont",
+    "name": "An act relating to the Vermont Broadband Internet Access Service Privacy Act",
+    "description": "General data privacy bill regarding ISPs that categorizes all personal data relating to children as \"sensitive\".",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Internet access"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This bill specifically focuses on ISP data privacy practices with enhanced protections for children's data, making Privacy the primary tag. Internet access is included as it specifically regulates broadband internet service providers rather than general online platforms."
+  },
+  {
+    "state": "Vermont",
+    "name": "An act relating to funding for the Vermont Internet Crimes Against Children (VT-ICAC) Task Force",
+    "description": "Appropriates funds for the Vermont Internet Crimes Against Children Task Force and creates three staff positions.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Government Surveillance",
+    "llm_tags": [
+      "Cybersecurity",
+      "Subsidies and industrial policy"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "This bill appropriates funds and creates government positions for a task force focused on internet crimes against children, making it primarily about cybersecurity enforcement and government funding/staffing rather than regulating platforms or content directly."
+  },
+  {
+    "state": "Virginia",
+    "name": "Consumer Data Protection Act;  protections for children, definition of verifiable parental consent",
+    "description": "Requires parental consent for minor accounts with services that process data, or to collect and use minors' data;  prohibits sale of minors' personal data, or using it for targeted advertising. Raises age of majority in existing data protection law to 18.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Primary focus is on data privacy protections for minors including parental consent requirements, prohibition on data sales, and restrictions on targeted advertising. Online safety is secondary as these privacy measures serve broader child protection goals."
+  },
+  {
+    "state": "Virginia",
+    "name": "Consumer Data Protection Act;  protections for children.",
+    "description": "Requires parental consent for minor accounts with services that process data, or to collect and use minors' data;  prohibits sale of minors' personal data, or using it for targeted advertising. Raises age of majority in existing data protection law to 18.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Primary focus is on data privacy protections for minors (parental consent, prohibiting data sales, restricting targeted advertising) with broader online safety implications through comprehensive data protection measures."
+  },
+  {
+    "state": "Virginia",
+    "name": "Civil liability for publishing or distributing material harmful to minors on the Internet",
+    "description": "Requires age verification to access websites that are more than one-third pornography, excluding interactive computer services.  Raises age of majority in existing data protection law to 18.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Online safety",
+      "Liability",
+      "Privacy"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Primary focus is online safety through age verification requirements for pornographic content, creates civil liability framework for non-compliance, and raises age protections in data law to 18, distinguishing it from general content moderation bills"
+  },
+  {
+    "state": "West Virginia",
+    "name": "Providing online privacy protection laws for children under 18 years of age",
+    "description": "Requires online services to obtain parental consent to collect, use, or disclose minors' personal information;  encourages creation of self-regulatory guidelines.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "Bill focuses primarily on privacy protection through parental consent requirements for data collection from minors, with secondary emphasis on broader online safety through self-regulatory guidelines"
+  },
+  {
+    "state": "West Virginia",
+    "name": "Relating to online privacy protection for minors",
+    "description": "Prohibits internet services from advertising or marketing harmful products (incl. weapons, tobacco, lottery tickets, pornography, spray paint) to minors;  requires internet services to facilitate the removal of minors' posted content when requested.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "Bill primarily focuses on content moderation by prohibiting harmful advertising to minors, includes privacy elements through content removal rights, and addresses online safety through marketing restrictions on dangerous products"
+  },
+  {
+    "state": "West Virginia",
+    "name": "Protection of minors from harmful material on internet",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Privacy",
+      "Online safety"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on content moderation through age verification requirements for pornographic websites, involves privacy concerns due to ID verification processes, and addresses online safety through access restrictions. The governance approach is content moderation as it regulates access to harmful content through verification mechanisms."
+  },
+  {
+    "state": "West Virginia",
+    "name": "Relating to the Consumer Data Protection Act and establishing a framework for controlling and processing personal data in the State",
+    "description": "General data privacy bill that categorizes all personal data relating to children as \"sensitive\".",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Privacy/Data Rights",
+    "llm_tags": [
+      "Privacy",
+      "Transparency"
+    ],
+    "llm_governance": "Privacy/Data Rights",
+    "reasoning": "This is a general data privacy bill that specifically categorizes children's personal data as sensitive, making Privacy the primary focus. Transparency is included as data protection acts typically require disclosure of data processing practices. The governance clearly falls under Privacy/Data Rights as it restricts data collection and use."
+  },
+  {
+    "state": "Wisconsin",
+    "name": "Relating to: prostitution crime surcharge and making an appropriation.",
+    "description": "Establishes a new fine and appropriates the revenue for investigating and prosecuting Internet crimes against children.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Government Surveillance",
+    "llm_tags": [
+      "Taxation",
+      "Cybersecurity"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "This bill establishes a new fine/surcharge (taxation mechanism) and appropriates revenue specifically for investigating and prosecuting Internet crimes against children (cybersecurity enforcement). The governance remains Government Surveillance as it funds government monitoring and prosecution programs."
+  },
+  {
+    "state": "Wisconsin",
+    "name": "Relating to: pupil or minor access to harmful material in public libraries and to harmful material or offensive material in public schools.",
+    "description": "Requires schools and libraries to use filters or otherwise prevent minors and students accessing pornography.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Content Moderation/Free Speech",
+    "llm_tags": [
+      "Content moderation/Free Speech",
+      "Education and research",
+      "Online safety"
+    ],
+    "llm_governance": "Content Moderation/Free Speech",
+    "reasoning": "This bill primarily focuses on content filtering requirements for schools and libraries to prevent access to harmful material, making content moderation the primary issue. Education and research is relevant as it specifically targets educational institutions (schools and libraries). Online safety captures the broader protective intent while being more specific than just 'Children'."
+  },
+  {
+    "state": "Wisconsin",
+    "name": "Relating to: prostitution crime surcharge and making an appropriation.",
+    "description": "Establishes a new fine and appropriates the revenue for investigating and prosecuting Internet crimes against children.",
+    "existing_tag_1": null,
+    "existing_tag_2": null,
+    "existing_tag_3": null,
+    "existing_governance": "Government Surveillance",
+    "llm_tags": [
+      "Taxation",
+      "Cybersecurity"
+    ],
+    "llm_governance": "Government Surveillance",
+    "reasoning": "This bill establishes a new fine/surcharge (taxation mechanism) and appropriates revenue specifically for investigating and prosecuting Internet crimes against children (cybersecurity enforcement). The governance remains Government Surveillance as it funds government monitoring and prosecution programs."
+  }
+]

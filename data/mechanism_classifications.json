@@ -1,0 +1,2484 @@
+[
+  {
+    "state": "Alabama",
+    "name": "Relating to consumer protection;  to require certain manufacturers of Internet-enabled devices to activate existing filters to restrict access to certain material;  to provide for a cause of action;  to provide civil penalties.",
+    "description": "Requires tablet/smartphone manufacturers to have filters that can be enabled at activation and only bypassed or switched off with password. ",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill targets device manufacturers (tablets/smartphones) rather than online platforms/websites. It requires manufacturers to have content filters that can be enabled at activation with password protection. This is a device-level filtering requirement, not regulation of online services or platforms themselves."
+  },
+  {
+    "state": "Arizona",
+    "name": "To create the protection of minors from distribution of harmful material act;  to establish liability for the publication or distribution of material harmful to minors on the internet;  and to require reasonable age verification.",
+    "description": "Requires age verification to access websites that are more than one-third pornography.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires age verification for websites that are more than one-third pornography. It targets only specific category of websites (pornography sites) rather than all platforms. No other mechanisms are mentioned in the provided description."
+  },
+  {
+    "state": "Arkansas",
+    "name": "To create the protection of minors from distribution of harmful material act;  to establish liability for the publication or distribution of material harmful to minors on the internet;  and to require reasonable age verification.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography (specific category, not all platforms). Prohibits retaining ID information, which is a data collection limit. No requirements for parental consent, algorithmic restrictions, duty of care, risk assessments, default privacy settings, or school-based measures."
+  },
+  {
+    "state": "Arkansas",
+    "name": "To create the social media safety act;  to require age verification for use of social media;  and to clarify liability for failure to perform age verification for use of social media and illegal retention of data.",
+    "description": "Requires age verification / parental consent to open social media accounts, with significant exclusions. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires age verification and parental consent for social media accounts. It prohibits retaining ID information (data collection limits). Targets only social media platforms, not all online services. No mention of algorithmic restrictions, duty of care standards, risk assessments, default privacy settings, or school-based measures."
+  },
+  {
+    "state": "California",
+    "name": "Business regulations: sexually explicit material ",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for pornography websites (age_verification: true) and prohibits retaining ID information (data_collection_limits: true). Only applies to websites that are more than one-third pornography, not all platforms (targets_all_platforms: false). No other mechanisms are explicitly required."
+  },
+  {
+    "state": "California",
+    "name": "The California Age-Appropriate Design Code Act ",
+    "description": "Requires online services to submit risk assessments and mitigation plans for how their products might harm children;  estimate users' ages;  provide privacy protections for children. Establishes working group to advise legislature.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": true,
+      "risk_assessment_required": true,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires risk assessments and mitigation plans (risk_assessment_required), provides privacy protections for children (data_collection_limits), and establishes design obligations for child safety (duty_of_care). Age estimation is mentioned but not verification requiring ID. Applies to online services generally (targets_all_platforms). Other mechanisms not explicitly required in description."
+  },
+  {
+    "state": "California",
+    "name": "Features that harm child users: civil penalty",
+    "description": "Prohibits social media platforms from design elements (not content) that result in specific harms to children (incl. self-harm and purchase of firearms);  platforms exempted if conducting quarterly audits and effecting mitigations.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": true,
+      "risk_assessment_required": true,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill prohibits harmful design elements on social media platforms (algorithmic_restrictions), creates legal obligation for child safety design (duty_of_care), and requires quarterly audits as risk assessments (risk_assessment_required). Targets only social media platforms, not all online services (targets_all_platforms: false)."
+  },
+  {
+    "state": "California",
+    "name": "Social media platforms: minor users: civil penalties",
+    "description": "Prohibits social media platforms using ranking algorithms that prioritize engagement over well-being for minors.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "The bill explicitly prohibits social media platforms from using ranking algorithms that prioritize engagement over well-being for minors, which constitutes algorithmic restrictions. It targets social media platforms specifically, not all online platforms. No other mechanisms are explicitly required based on the description provided."
+  },
+  {
+    "state": "Connecticut",
+    "name": "An act concerning minors and social media accounts.",
+    "description": "[Official summary as no bill text available] Requiring parental consent for under 16s to open social media accounts.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires parental consent for under 16s to open social media accounts. Targets social media platforms specifically, not all platforms. No other mechanisms are mentioned in the summary."
+  },
+  {
+    "state": "Connecticut",
+    "name": "An act concerning minors and digital privacy.",
+    "description": "[Official summary as no bill text available] Prohibits collection and commercial use of consumer data and personally identifiable information about minors",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "The bill explicitly prohibits collection and commercial use of consumer data and personally identifiable information about minors, which constitutes data collection limits. The description indicates it applies broadly to consumer data practices rather than specific platform categories, suggesting it targets all platforms. No other mechanisms are explicitly mentioned in the available summary."
+  },
+  {
+    "state": "Connecticut",
+    "name": "An act establishing a connecticut age-appropriate design code.",
+    "description": "[Official summary as no bill text available] Requires online services to adopt privacy and safety measures for minors",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": true,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "The bill title references 'age-appropriate design code' and requires 'privacy and safety measures for minors.' This suggests data collection limits and duty of care requirements for online services generally. However, without full bill text, specific mechanisms like age verification, parental consent, algorithmic restrictions, risk assessments, or default settings cannot be confirmed as explicitly required."
+  },
+  {
+    "state": "Connecticut",
+    "name": "An act concerning the creation of a state police investigative task force to address online sexual exploitation and abuse of minors.",
+    "description": "Establishes state police task force to address online sexual abuse and exploitation of minors.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only establishes a state police investigative task force to address online sexual exploitation and abuse of minors. It is procedural/organizational in nature and does not impose any regulatory requirements on platforms, schools, or other entities regarding child online safety mechanisms."
+  },
+  {
+    "state": "Connecticut",
+    "name": "An act concerning online privacy, data and safety protections.",
+    "description": "Omnibus including: requiring parental consent for under 16s to have social media accounts;  online services likely to be used by children have duty of care to avoid heightened risk to minors, must conduct impact assessments and mitigation plans, esp. regarding data collection;  collection / use of user data for minors highly restricted;  specific safety requirements;  establishes task force investigating & prosecuting internet crimes against children.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": true,
+      "risk_assessment_required": true,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill explicitly requires parental consent for under 16s social media accounts, restricts data collection/use for minors, establishes duty of care for online services likely used by children, and mandates impact assessments. No mention of age verification methods, algorithmic restrictions, default privacy settings, or school-based measures. Applies broadly to online services used by children, not just specific categories."
+  },
+  {
+    "state": "Connecticut",
+    "name": "An act concerning social media and parental consent.",
+    "description": "[Official summary as no bill text available] Requiring parental consent for under 16s to open social media accounts.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires parental consent for under 16s to open social media accounts. Targets social media platforms specifically, not all platforms. No other mechanisms are mentioned in the summary."
+  },
+  {
+    "state": "Connecticut",
+    "name": "An act concerning cyberbullying.",
+    "description": "[Official summary as no bill text available] Enforces age limits on social media usage;  require development of filters to curb cyberbullying.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill enforces age limits on social media (requiring age verification) and mandates development of filters to curb cyberbullying (algorithmic restrictions). Applies to social media platforms generally, not specific categories. No mention of parental consent, data limits, duty of care, risk assessments, default settings, or school-based measures."
+  },
+  {
+    "state": "Florida",
+    "name": "Social Media Protection for Minors",
+    "description": "Requires social media platforms predominantly used by minors to disclose policies, provide reporting features and parental settings, and display a warning.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "The bill description only mentions disclosure requirements (policy transparency), reporting features, parental settings provision, and warning displays. These are transparency and tool provision requirements, not explicit regulatory mechanisms like age verification, data restrictions, or algorithmic controls. The bill targets social media platforms used by minors specifically, not all platforms."
+  },
+  {
+    "state": "Florida",
+    "name": "Technology Transparency",
+    "description": "Omnibus bill including: prohibiting causing harm to minors via processing of personal data;  use of user data for children highly restricted;  categorizes all personal data relating to minors as \"sensitive.\"",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill explicitly restricts use of user data for children and categorizes all minor personal data as sensitive, indicating data collection limits. The prohibition on causing harm to minors via data processing suggests broad application to platforms that process personal data. No explicit requirements mentioned for age verification, parental consent, algorithmic restrictions, or other mechanisms."
+  },
+  {
+    "state": "Florida",
+    "name": "Protection of Exploited Persons",
+    "description": "Includes requiring age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for pornography websites (>1/3 pornographic content) and prohibits retaining ID information used for verification. Applies only to specific category of websites, not all platforms."
+  },
+  {
+    "state": "Florida",
+    "name": "Student Online Personal Information Protection",
+    "description": "Significantly restricts school tech services' collection, use, and retention of student data, including prohibiting targeted advertising;  requires their adoption of reasonable data security practices.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill specifically targets school tech services rather than all platforms. It restricts data collection, use, and retention of student data, and prohibits targeted advertising (which is an algorithmic restriction). The focus is on school-based technology services, not general online platforms."
+  },
+  {
+    "state": "Florida",
+    "name": "Childhood Mental Health, Safety, and Welfare",
+    "description": "Includes: requiring age verification to access websites that are more than one-third pornography (retaining ID information prohibited);  prohibiting use of student personal devices during school and posting student images to social media.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for pornography websites (specific category, not all platforms), prohibits retaining ID information (data collection limit), and includes school-based restrictions on personal devices and social media posting. No evidence of parental consent requirements, algorithmic restrictions, duty of care, risk assessments, or default privacy settings."
+  },
+  {
+    "state": "Georgia",
+    "name": "Student Technology Protection Act",
+    "description": "Requires instructor and student education on safe use of technology;  tightens acceptable usage and filtering policies at schools.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "The bill focuses exclusively on school-based measures: requiring instructor and student education on safe technology use and tightening school acceptable usage and filtering policies. It does not regulate platforms directly or establish requirements for online services."
+  },
+  {
+    "state": "Idaho",
+    "name": "PROTECTION OF MINORS \u2013 Adds to existing law to establish the Parental Rights Protection of Minors Act to protect minors from exposure to harmful materials on certain devices.",
+    "description": "Requires tablet/smartphone manufacturers to have filters that are enabled at activation and only bypassed or switched off with password. Crime for non-parents to deactivate filter and allow minors to access harmful content.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires parental consent (password required to bypass filters) and default privacy settings (filters enabled at activation). Targets only tablet/smartphone manufacturers, not all platforms. No age verification, data limits, algorithmic restrictions, duty of care, risk assessments, or school focus explicitly required."
+  },
+  {
+    "state": "Idaho",
+    "name": "PROTECTION OF MINORS \u2013 Adds to existing law to establish the Parental Rights Protection of Minors Act to protect minors from exposure to harmful materials on certain devices.",
+    "description": "Requires tablet/smartphone manufacturers to have filters that are enabled at activation and only bypassed or switched off with password. Crime for non-parents to deactivate filter and allow minors to access harmful content.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires parental consent (password required to bypass filters) and default privacy settings (filters enabled at activation). Targets only tablet/smartphone manufacturers, not all platforms. No age verification, data limits, algorithmic restrictions, duty of care, risk assessments, or school focus explicitly required."
+  },
+  {
+    "state": "Illinois",
+    "name": "Creates the Children's Privacy Protection and Parental Empowerment Act",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted. Establishes working group to develop best practices.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires impact assessments and mitigation plans (risk assessment), restricts use of user data for children (data collection limits), requires most protective default privacy settings for child users, and applies to online services likely to be used by children (all platforms). Age estimation is mentioned but not verification requiring ID. No explicit parental consent, algorithmic restrictions, duty of care standard, or school-based provisions are described."
+  },
+  {
+    "state": "Illinois",
+    "name": "Creates the Minor Online Data Privacy Act.",
+    "description": "[No bill text available]",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "No bill text is available to analyze specific policy mechanisms. Without explicit text showing required provisions, all mechanisms must be marked false following the conservative approach."
+  },
+  {
+    "state": "Indiana",
+    "name": "Internet safety curricula for schools",
+    "description": "Permits schools to teach Internet safety and instructs state education department to create curricular materials  at, minimally, elementary and high school levels.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only permits schools to teach Internet safety and instructs the state education department to create curricular materials. It is entirely school-focused and does not regulate platforms or require any platform-based safety mechanisms. The bill is permissive rather than mandatory even for schools."
+  },
+  {
+    "state": "Iowa",
+    "name": "An Act relating to civil liability for commercial entities who publish or distribute material harmful to minors on the internet and providing penalties.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography (specific category, not all platforms). Prohibits retaining ID information, which is a data collection/retention limit. No other mechanisms are explicitly required."
+  },
+  {
+    "state": "Iowa",
+    "name": "An Act relating to social media users under eighteen years of age, making penalties applicable, and including applicability provisions.",
+    "description": "Prohibits social media platforms from allowing under 18s having accounts.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill prohibits social media platforms from allowing under 18s to have accounts, which necessarily requires age verification to enforce. Targets only social media platforms, not all online services. No other mechanisms are explicitly required by the prohibition."
+  },
+  {
+    "state": "Iowa",
+    "name": "An Act relating to social media data collection regarding children under eighteen years of age, providing civil penalties, and including applicability provisions.",
+    "description": "Prohibits social media platforms from collecting personal information (broadly defined) about children without parental consent.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires parental consent before social media platforms can collect personal information from children under 18, and restricts data collection from minors without such consent. Applies specifically to social media platforms, not all online services."
+  },
+  {
+    "state": "Iowa",
+    "name": "An Act relating to parental consent regarding internet sites for users under the age of sixteen, providing civil penalties, and including applicability provisions",
+    "description": "Requires parental consent for under 16s to use social media or gaming platforms.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires parental consent for users under 16 to use social media or gaming platforms. It targets specific platform categories (social media/gaming) rather than all online services. No other mechanisms are explicitly required based on the description provided."
+  },
+  {
+    "state": "Kansas",
+    "name": "Requiring commercial entities that produce material harmful to minors on the internet to require age verification for access to such internet sites and establishing a civil cause of action against such commercial entities by persons harmed to recover actual and punitive damages, court costs and attorney fees.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography, and prohibits retaining ID information (data collection limit). It targets only specific category of websites (pornography sites), not all platforms. No other mechanisms are explicitly required."
+  },
+  {
+    "state": "Kansas",
+    "name": "Require commercial entities that produce material harmful to minors on the internet to require age verification for access to such internet sites, establishing a civil cause of action against such commercial entities by persons harmed to recover actual and punitive damages, court costs and attorney fees.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography, and prohibits retaining ID information (data collection limit). It targets only specific category of websites (pornography sites), not all platforms. No other mechanisms are explicitly required."
+  },
+  {
+    "state": "Kansas",
+    "name": "Removing liability protections from online platforms and requiring certain wireless communication devices to have a default setting notifying parents of application downloads.",
+    "description": "Declares that algorithmic recommendation of certain harmful content is not protected by \u00a7230.  Requires mobile device vendors to alert parents whenever a child downloads an app.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires parental notification for app downloads (parental_consent) and regulates algorithmic recommendation of harmful content by removing Section 230 protections (algorithmic_restrictions). Does not apply to all platforms - focuses on mobile devices and specific harmful content algorithms rather than comprehensive platform regulation."
+  },
+  {
+    "state": "Kentucky",
+    "name": "AN ACT relating to consumer data privacy.",
+    "description": "General data privacy act that categorizes all personal data relating to minors as \"sensitive.\"",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "This is a general data privacy act that categorizes all personal data relating to minors as 'sensitive,' which creates restrictions on data collection, use, sale, and retention for minors beyond general privacy laws. As a general data privacy act, it applies to all platforms/services that handle personal data, not just specific categories."
+  },
+  {
+    "state": "Kentucky",
+    "name": "AN ACT relating to the protection of minors.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for pornography websites (age_verification: true) and prohibits retaining ID information (data_collection_limits: true). Only applies to websites that are more than one-third pornography, not all platforms (targets_all_platforms: false). No other mechanisms are explicitly required."
+  },
+  {
+    "state": "Louisiana",
+    "name": "Provides for attorney general investigation for publishers and distributors of material harmful to minors",
+    "description": "Adds civil action for AG to the provisions of HB 142 (2022) / Act 440",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only adds civil action authority for the Attorney General to existing legislation (HB 142/Act 440) regarding material harmful to minors. It creates enforcement mechanisms but does not establish new regulatory requirements for platforms or services. It's procedural/enforcement focused rather than establishing substantive policy mechanisms."
+  },
+  {
+    "state": "Louisiana",
+    "name": "Provides for liability for publishers and distributors of material harmful to minors",
+    "description": "Require age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for pornography websites (>1/3 pornographic content) and prohibits retaining ID information used for verification. Applies only to specific category of websites, not all platforms."
+  },
+  {
+    "state": "Louisiana",
+    "name": "Creates the Secure Online Child Interaction and Age Limitation Act.",
+    "description": "Requires parental approval for minors to have social media accounts;  requires age verification. Minor accounts: limited discoverability and communication;  allow parental access;  limited data use;  curfewed by default;  parents can set time limits.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires age verification and parental approval for social media accounts. It restricts data use for minors and mandates default privacy settings (limited discoverability, curfews). Targets social media platforms specifically, not all online services. No mention of algorithmic restrictions, duty of care standards, or risk assessments."
+  },
+  {
+    "state": "Maine",
+    "name": "An Act to Protect Children by Modernizing Internet and Digital Media Filtering Requirements for Education",
+    "description": "Requires schools to use pornography filters on their networks and devices.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill requires schools to use pornography filters on their networks and devices, making it school-based regulation focused on educational institutions rather than regulating platforms directly. It targets specific content (pornography) rather than all platforms."
+  },
+  {
+    "state": "Maryland",
+    "name": "Consumer Protection \u2013 Social Media Regulation and Safety for Children",
+    "description": "Prohibits under 13s having social media accounts;  platforms must identify and offer deletion for accounts of under 13s;  requires establishment of option of minor-parent joint accounts;  establishes fund for digital citizenship education.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill prohibits under 13s from having social media accounts and requires platforms to identify such accounts, implying age verification requirements. The joint minor-parent account option suggests parental consent requirements. The bill targets social media platforms generally, not specific categories. No explicit data collection limits, algorithmic restrictions, duty of care standards, risk assessments, or default privacy settings are mentioned. Digital citizenship education creates a fund but doesn't mandate school-based programs."
+  },
+  {
+    "state": "Maryland",
+    "name": "Consumer Protection - Online Products and Services - Children's Data",
+    "description": "Require online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children through data retention or algorithms;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires impact assessments and mitigation plans (risk assessment), restricts use of children's data (data collection limits), addresses algorithmic harm (algorithmic restrictions), mandates protective default privacy settings, and applies to online services likely used by children (all platforms). Age estimation is mentioned but not verification requiring ID. No parental consent or duty of care standard explicitly required."
+  },
+  {
+    "state": "Maryland",
+    "name": "Commercial Law - Protection of Minors From Unfiltered Tablets or Smart Phones",
+    "description": "Require tablet/smartphone manufacturers to have filters that are enabled at activation and only bypassed or switched off with password. ",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": true,
+      "targets_all_platforms": false,
+      "school_based": false
+    },
+    "reasoning": "Bill requires manufacturers to enable content filters by default on tablets/smartphones at activation, which constitutes default privacy-protective settings. The password requirement for bypassing filters is a protective default setting. Bill targets device manufacturers, not online platforms, and applies specifically to tablets/smartphones rather than all platforms."
+  },
+  {
+    "state": "Maryland",
+    "name": "Consumer Protection \u2013 Online Products and Services \u2013 Children\u2019s Data",
+    "description": "Require online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires impact assessments and mitigation plans (risk assessment), restricts use of children's data (data collection limits), mandates most protective default privacy settings for child users, and applies to online services likely used by children (all platforms). Age estimation is required but not verification. No explicit parental consent, algorithmic restrictions, duty of care standard, or school-based provisions mentioned."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to internet privacy rights for children",
+    "description": "Prohibits internet services from advertising or marketing harmful products (incl. weapons, tobacco, lottery tickets, pornography, spray paint) to minors;  requires internet services to facilitate the removal of minors' posted content when requested.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "The bill prohibits advertising/marketing harmful products to minors and requires content removal capabilities, but does not explicitly mandate any of the specific policy mechanisms listed. It applies broadly to 'internet services' rather than specific categories, making targets_all_platforms true."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to student and educator data privacy",
+    "description": "Significantly restricts school tech vendors' use of student data and require data security practices;  requires that contracts between schools and vendors detail privacy and data security issues;  instruct the creation and implementation of data security and privacy regulations for educational entities.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill specifically targets school technology vendors and educational contexts, not general platforms. It restricts how vendors can use student data and requires data security practices in school contracts. The focus is on regulating the school-vendor relationship rather than broader platform regulation or direct child safety mechanisms like age verification or parental consent."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act concerning media literacy in schools",
+    "description": "Directs department of education to integrate media literacy, including Internet safety, into K-12 education.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill directs the department of education to integrate media literacy and Internet safety into K-12 education curricula. It is focused on school-based education rather than regulating platforms or requiring any compliance mechanisms from online services."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to the enticement of children online",
+    "description": "Adds online approaches to the established offence of enticement.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill appears to be a criminal law amendment that adds online approaches to existing enticement offenses. It criminalizes conduct rather than regulating platform operations or requiring specific safety mechanisms from companies."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images",
+    "description": "Creates diversion program for teenagers regarding sexting and cyberbullying;  creates offence of distributing intimate images in cyberbullying context;  revises related penalties.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill focuses on criminal law enforcement regarding sexting and intimate image distribution by creating diversion programs and criminal offenses. It does not regulate platforms or impose requirements on online services - it addresses individual conduct and creates alternative prosecution pathways for teenagers."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act establishing the Massachusetts Data Privacy Protection Act",
+    "description": "Includes prohibition on targeted advertising to minors and requirement to assess and mitigate privacy risks to minors.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": true,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill prohibits targeted advertising to minors (data collection limits) and requires privacy risk assessments for minors (risk assessment required). As a general data privacy act, it applies broadly to platforms. No explicit requirements for age verification, parental consent, algorithmic restrictions, duty of care, default settings, or school-based measures are mentioned in the description."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to student and educator data privacy",
+    "description": "Significantly restricts school tech vendors' use of student data and require data security practices;  requires that contracts between schools and vendors detail privacy and data security issues;  instruct the creation and implementation of data security and privacy regulations for educational entities.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill specifically targets school technology vendors and educational contexts, not general platforms. It restricts how vendors can use student data and requires data security practices in school contracts. The focus is on regulating the school-vendor relationship rather than broader platform regulation or direct child safety mechanisms like age verification or parental consent."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images",
+    "description": "Creates diversion program for teenagers regarding sexting and cyberbullying;  creates offence of distributing intimate images in cyberbullying context;  revises related penalties.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill focuses on criminal law enforcement regarding sexting and intimate image distribution by creating diversion programs and criminal offenses. It does not regulate platforms or impose requirements on online services - it addresses individual conduct and creates alternative prosecution pathways for teenagers."
+  },
+  {
+    "state": "Massachusetts",
+    "name": "An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images",
+    "description": "Creates diversion program for teenagers regarding sexting and cyberbullying;  creates offence of distributing intimate images in cyberbullying context;  revises related penalties.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill focuses on criminal law enforcement regarding sexting and intimate image distribution by creating diversion programs and criminal offenses. It does not regulate platforms or impose requirements on online services - it addresses individual conduct and creates alternative prosecution pathways for teenagers."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Social media algorithms that target children prohibited.",
+    "description": "Prohibits social media platforms serving content to minors via recommendation algorithms (except search results). Require parental consent for minors to open accounts.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires parental consent for minors to open accounts and prohibits recommendation algorithms for minors (algorithmic restrictions). Targets only social media platforms, not all online services. No explicit age verification, data collection limits, duty of care standard, risk assessments, default privacy settings, or school-based provisions mentioned."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Human Trafficking and Child Exploitation Prevention Act established, rulemaking provided, and report required.",
+    "description": "Requires device retailers to have web filters that are enabled at activation and only disabled by adults paying a fee.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill requires device retailers to install web filters that are enabled by default and can only be disabled by adults paying a fee. It targets device retailers rather than online platforms/websites, and focuses on filtering mechanisms rather than the specific policy mechanisms defined in the classification system."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Minnesota Age-Appropriate Design Code Act created, obligations placed on businesses regarding children's consumer information, and attorney general enforcement provided.",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": true,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires impact assessments and mitigation plans (risk assessment), restricts use of children's data (data collection limits), mandates default privacy settings to most protective for children (default privacy settings), and creates obligations for businesses regarding children's safety (duty of care). Applies to online services likely used by children (targets all platforms). Age estimation is mentioned but not verification requiring ID. No parental consent, algorithmic restrictions, or school-based provisions explicitly stated."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Human Trafficking and Child Exploitation Prevention Act",
+    "description": "Requires device retailers to have web filters that are enabled at activation and only disabled by adults paying a fee.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires device retailers to have web filters enabled by default that can only be disabled by adults paying a fee, which constitutes age verification. The mechanism targets device filtering rather than all platforms, and focuses on preventing access to harmful content rather than broader platform regulation."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Certain social media algorithms that target children prohibition",
+    "description": "Prohibits social media platforms serving content to minors via recommendation algorithms (except search results). Require parental consent for minors to open accounts.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires parental consent for minors to open accounts and prohibits recommendation algorithms for content served to minors (algorithmic restrictions). Targets only social media platforms, not all online services. No explicit age verification, data collection limits, duty of care standard, risk assessments, default privacy settings, or school-based provisions mentioned."
+  },
+  {
+    "state": "Minnesota",
+    "name": "Minnesota Age-Appropriate Design Code Act",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": true,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires impact assessments and mitigation plans (risk assessment), highly restricts use of children's data (data collection limits), mandates most protective default privacy settings for children, and establishes duty to conduct assessments and implement protections (duty of care). Applies to online services likely used by children (all platforms). Age estimation is mentioned but not verification requiring ID. No explicit parental consent, algorithmic restrictions, or school-based provisions described."
+  },
+  {
+    "state": "Mississippi",
+    "name": "Minors;  hold entities that publish harmful material on the internet civilly liable if age vertification is not performed.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography, making age_verification true. It prohibits retaining ID information, which is a data collection limit. The bill targets only specific pornography websites, not all platforms. No other mechanisms are explicitly required."
+  },
+  {
+    "state": "Mississippi",
+    "name": "Digital or online resources or databases;  require vendors to verify technology protection for persons under 15.",
+    "description": "Includes: requiring online content vendors to schools to use filters;  prohibiting enticing minors to sexual acts via online communication.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires vendors providing digital resources to schools to use technology protection/filters for persons under 15, making this school-based regulation. Also includes criminal prohibition on enticing minors to sexual acts online, but this is criminal law rather than platform regulation. Does not establish broader platform requirements or target all online services."
+  },
+  {
+    "state": "Mississippi",
+    "name": "Pornographic online and digital/resources for K-12 students;  prohibit",
+    "description": "Requires online content vendors to schools to use filters.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires online content vendors to schools to use filters, making it school-based regulation focused on educational settings. It targets specific content (pornographic) rather than all platforms, and only mandates filtering requirements without establishing broader platform regulations."
+  },
+  {
+    "state": "Mississippi",
+    "name": "Material harmful to minors;  provide for liability for any entity that distributes on the internet without age verification.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography, and prohibits retaining ID information (data collection limit). It targets only specific category of websites (pornography sites), not all platforms."
+  },
+  {
+    "state": "Mississippi",
+    "name": "Material harmful to minors;  provide for liability for any entity that distributes on the internet without age verification",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography (specific category, not all platforms). It prohibits retaining ID information, which is a data collection/retention limit. No other mechanisms are explicitly required."
+  },
+  {
+    "state": "Missouri",
+    "name": "Requires internet service providers to authenticate access to obscene websites and provide subscribers the ability to create an authentication to access such websites",
+    "description": "Requires that ISPs enable a web filtering service, bypassable with passcode. Prohibits sharing code with minor.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill requires ISPs to provide web filtering services with passcode bypass for obscene websites and prohibits sharing codes with minors. It does not require age verification by platforms/websites themselves, but rather mandates ISP-level filtering. The bill targets ISPs rather than all platforms and focuses specifically on obscene content rather than general online services."
+  },
+  {
+    "state": "Montana",
+    "name": "Generally revise pupil data privacy protections",
+    "description": "Limits use of facial recognition in schools to specific purposes and prohibits vendors from using that data beyond providing the service;  tightens up existing data privacy rules in schools.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill focuses on school-based pupil data privacy protections, limits facial recognition use in schools to specific purposes, and prohibits vendors from using school data beyond providing services. This constitutes data collection limits in the school context but does not regulate general platforms or require broader mechanisms like age verification or parental consent."
+  },
+  {
+    "state": "Montana",
+    "name": "Revise internet laws related to material harmful to minors",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography (specific category, not all platforms). Prohibiting retention of ID information constitutes a data collection limit. No other mechanisms are explicitly required."
+  },
+  {
+    "state": "Nebraska",
+    "name": "Create the offense of digital grooming and prohibit using an electronic communication device or social media to engage in certain conduct with minors",
+    "description": "Prohibits online communication by adults with under 16s to entice sexual activity.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill creates a criminal offense for digital grooming - prohibiting adults from using electronic communication to entice minors under 16 for sexual activity. It establishes criminal liability for individual conduct rather than requiring platforms to implement any specific safety mechanisms or regulations."
+  },
+  {
+    "state": "Nebraska",
+    "name": "Provide requirements regarding access to digital and online resources provided for students by school districts, schools, and the Nebraska Library Commission",
+    "description": "Requiring online content vendors to schools to use filters and provide parental access to content accessed by their child.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill focuses specifically on school-based requirements, mandating that online content vendors to schools use filters and provide parental access to content accessed by students. It regulates the school environment rather than platforms directly, and applies only to vendors serving educational institutions, not all platforms."
+  },
+  {
+    "state": "Nevada",
+    "name": "Establishes provisions relating to Internet privacy. (BDR 52-589)",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  default privacy settings to most protective for child users. Use of user data for children highly restricted. ",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires impact assessments and mitigation plans (risk assessment), default privacy-protective settings for children, and highly restricts use of children's data. Applies to online services likely to be used by children (broad platform coverage). No explicit age verification, parental consent, algorithmic restrictions, or school-based provisions mentioned."
+  },
+  {
+    "state": "New Hampshire",
+    "name": "making an appropriation to support the work of the New Hampshire Internet Crimes Against Children Task Force",
+    "description": "Appropriates funding for the New Hampshire Internet Crimes Against Children Task Force.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only appropriates funding for an existing Internet Crimes Against Children Task Force. It is purely a funding/appropriation measure and does not establish any regulatory requirements for platforms, schools, or other entities regarding child online safety mechanisms."
+  },
+  {
+    "state": "New Hampshire",
+    "name": "AN ACT relative to the expectation of privacy.",
+    "description": "General data privacy bill that categorizes all personal data relating to minors as \"sensitive.\"",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "This is a general data privacy bill that categorizes all personal data relating to minors as 'sensitive,' which creates restrictions on data collection, use, sale, or retention for minors beyond general privacy laws. As a general data privacy bill, it would apply to all platforms/services that handle personal data, not just specific categories."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Provides that required instruction on sexual abuse and assault awareness and prevention in grades preschool through 12 include content on Internet safety and dangers of online predators.",
+    "description": "Adds Internet safety / online predators to PS-12 sexual abuse awareness and prevention curriculum.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only requires schools to include Internet safety and online predator awareness content in existing sexual abuse prevention curriculum for grades preschool through 12. It is purely educational/curriculum-focused and does not regulate platforms or impose any requirements on online services."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Establishes \"Internet Predator Investigation and Prosecution Fund\" with $200 assessment on persons convicted of certain offenses.",
+    "description": "Establishes fund for AG to investigate and prosecute enticement of minors via the Internet with $200 fines from those convicted of hacking crimes or sexual offences.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only establishes a funding mechanism for law enforcement investigations and prosecutions. It creates a fund financed by fines from convicted offenders but does not impose any regulatory requirements on platforms, websites, or other entities regarding child safety mechanisms."
+  },
+  {
+    "state": "New Jersey",
+    "name": "One Strike, You're Ours;  adds use of Internet as aggravating factor in child sex crimes and requires lifetime electronic monitoring of offender.",
+    "description": "Adds use of Internet as aggravating factor in child sex crimes and requires lifetime electronic monitoring of offenders.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill focuses on criminal justice penalties and monitoring for offenders who commit child sex crimes using the internet, rather than regulating online platforms or services. It adds internet use as an aggravating factor in sentencing and requires lifetime electronic monitoring of offenders. It does not impose any requirements on websites, platforms, or online services regarding child safety mechanisms."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Human Trafficking and Child Exploitation Prevention Act;  requires Internet-connected devices to have blocking capability in certain circumstances.",
+    "description": "Requires device manufacturers/ retailers to have filters;  when sold to minor pornography blocking must be enabled at activation;  CSAM, NCII, child trafficking and prostitution blocked for all;  filters only disabled by adults paying a fee.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill regulates device manufacturers/retailers to install content filters on internet-connected devices, not online platforms themselves. It requires blocking specific harmful content (pornography for minors, CSAM, NCII, trafficking content) but doesn't establish platform regulations like age verification, parental consent, data limits, or algorithmic restrictions. The bill targets device-level filtering rather than platform-level safety mechanisms."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Requires sex offenders to report Internet identifiers and name changes.",
+    "description": "Requires sex offenders to report Internet identifiers.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill requires sex offenders to report their internet identifiers and name changes - it regulates offenders' reporting obligations, not online platforms or child safety mechanisms. It does not establish any of the specified policy mechanisms for protecting children online."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Concerns social media privacy and data management for children and establishes New Jersey Children's Data Protection Commission.",
+    "description": "Require online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children, especially relating to data collection;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted. Establishes working group to develop best practices.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires impact assessments and mitigation plans (risk_assessment_required), restricts use of user data for children (data_collection_limits), requires most protective default privacy settings for child users (default_privacy_settings), and applies to online services likely to be used by children generally (targets_all_platforms). Age estimation is mentioned but not verification requiring ID. No explicit parental consent, algorithmic restrictions, or duty of care requirements described."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Prohibits social media platforms from using certain practices or features that cause child users to become addicted to platform.",
+    "description": "Prohibits social media platforms from using design that is addictive to minors;  exempts those that conduct quarterly assessments and mitigations.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": true,
+      "risk_assessment_required": true,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill prohibits addictive design practices for minors (algorithmic_restrictions), creates legal obligation for platforms to avoid addictive design (duty_of_care), and requires quarterly assessments for exemption (risk_assessment_required). Targets only social media platforms, not all online services. No explicit age verification, parental consent, data limits, or default privacy requirements mentioned."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Human Trafficking and Child Exploitation Prevention Act;  requires Internet-connected devices to have blocking capability in certain circumstances.",
+    "description": "Requires device manufacturers/ retailers to have filters;  when sold to minor pornography blocking must be enabled at activation;  CSAM, NCII, child trafficking and prostitution blocked for all;  filters only disabled by adults paying a fee.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill regulates device manufacturers/retailers to install content filters on internet-connected devices, not online platforms themselves. It requires blocking specific harmful content (pornography for minors, CSAM, NCII, trafficking content) but doesn't establish platform regulations like age verification, parental consent, data limits, or algorithmic restrictions. The bill targets device-level filtering rather than platform-level safety mechanisms."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Establishes \"Internet Predator Investigation and Prosecution Fund\" with $200 assessment on persons convicted of certain offenses.",
+    "description": "Establishes fund for AG to investigate and prosecute enticement of minors via the Internet with $200 fines from those convicted of hacking crimes or sexual offences.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only establishes a funding mechanism for law enforcement investigations and prosecutions. It creates a fund financed by fines from convicted offenders but does not impose any regulatory requirements on platforms, websites, or other entities regarding child safety mechanisms."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Provides that required instruction on sexual abuse and assault awareness and prevention in grades preschool through 12 include content on Internet safety and dangers of online predators.",
+    "description": "Adds Internet safety / online predators to PS-12 sexual abuse awareness and prevention curriculum.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only requires schools to include Internet safety and online predator awareness content in existing sexual abuse prevention curriculum for grades preschool through 12. It is purely educational/curriculum-focused and does not regulate platforms or impose any requirements on online services."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Concerns social media privacy and data management for children and establishes New Jersey Children's Data Protection Commission.",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children, especially relating to data collection;  estimate age of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted. Establishes working group to develop best practices.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires impact assessments and mitigation plans (risk assessment), restricts use of user data for children (data collection limits), requires most protective default privacy settings for child users, and applies to online services likely to be used by children generally. Age estimation is required but not verification. No explicit parental consent, algorithmic restrictions, duty of care standard, or school-based provisions mentioned."
+  },
+  {
+    "state": "New Jersey",
+    "name": "Prohibits social media platforms from using certain practices or features that cause child users to become addicted to platform.",
+    "description": "Prohibits social media platforms from using design that is addictive to minors;  exempts those that conduct quarterly assessments and mitigations.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": true,
+      "risk_assessment_required": true,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill prohibits addictive design practices for minors (algorithmic_restrictions), creates legal obligation for platforms to avoid addictive design (duty_of_care), and requires quarterly assessments for exemption (risk_assessment_required). Targets only social media platforms, not all online services. No explicit age verification, parental consent, data limits, or default privacy requirements mentioned."
+  },
+  {
+    "state": "New Mexico",
+    "name": "Age Appropriate Design Code Act",
+    "description": "Requires online services likely to be used by children to prioritize the well-being of children over commercial interests;  conduct impact assessments and mitigation plans for harm to children;  estimate ages of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": true,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires prioritizing child well-being (duty of care), impact assessments (risk assessment), default protective privacy settings, and highly restricts use of children's data. It applies to online services likely used by children (all platforms). Age estimation is mentioned but not verification requiring ID. No parental consent or algorithmic restrictions explicitly stated."
+  },
+  {
+    "state": "New York",
+    "name": "Directs the commissioner of education to appoint a media literacy advisory group to study the teaching of media literacy;  requires such group to survey all school districts",
+    "description": "Establishes advisory committee to make recommendations regarding teaching media literacy, including Internet safety, in schools.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only establishes an advisory group to study and make recommendations about teaching media literacy in schools. It does not require any actual implementation of media literacy curricula or internet safety measures - it's purely procedural/study-focused rather than regulatory."
+  },
+  {
+    "state": "New York",
+    "name": "Directs the commissioner of education to appoint a media literacy advisory committee to study the teaching of media literacy;  requires such committee to annually review policy on media literacy",
+    "description": "Establishes advisory committee to make recommendations regarding teaching media literacy, including Internet safety, in schools.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only establishes an advisory committee to study and make recommendations about teaching media literacy in schools. It is procedural/educational rather than regulatory, with no requirements imposed on platforms. Only school_based is true since it focuses on media literacy education in schools."
+  },
+  {
+    "state": "New York",
+    "name": "Prevents interactive computer service providers from knowingly or negligently promoting developed content that is dangerous or otherwise injurious to minors",
+    "description": "Prohibits online services harming minors by serving them targeted content that they (at least partially) developed.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": true,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "The bill prohibits interactive computer service providers from knowingly or negligently promoting developed content that is dangerous to minors. This creates a duty of care standard for platforms regarding content promotion/targeting to minors, regulates algorithmic content serving (algorithmic_restrictions), and applies broadly to interactive computer services (targets_all_platforms). No explicit requirements for age verification, parental consent, data limits, risk assessments, privacy settings, or school-based measures are mentioned."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to creating a set of media literacy standards for students in grades kindergarten through twelve",
+    "description": "Requires K-12 school to add media literacy to the curriculum, including Internet safety and privacy.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill requires K-12 schools to add media literacy to their curriculum, including Internet safety and privacy education. It is a school-based educational mandate rather than regulation of platforms or online services. No platform regulations or requirements are established."
+  },
+  {
+    "state": "New York",
+    "name": "Prohibits cyber-bullying",
+    "description": "Creates offence of cyberbullying.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "The bill only creates a criminal offense of cyberbullying. It does not require any specific regulatory mechanisms from platforms or impose technical requirements. This is a criminal law approach rather than platform regulation."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to enacting the New York child data privacy and protection act",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  default privacy settings to most protective for child users;  parents must consent to accept Terms of Use and privacy policy. AG bureau of Internet and technology may ban specific features. Use of user data for children highly restricted.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires parental consent for Terms of Use/privacy policy, restricts use of children's data, mandates impact assessments, requires default privacy settings to be most protective for children, and applies to online services likely to be used by children generally. No explicit age verification requirement, algorithmic restrictions, or duty of care standard mentioned."
+  },
+  {
+    "state": "New York",
+    "name": "Offers parental controls for internet services",
+    "description": "Requires ISPs to make filtering and tracking software available to parents.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "The bill only requires ISPs to make filtering and tracking software available to parents - it does not mandate any of the specified policy mechanisms. It creates an availability requirement for parental control tools but does not regulate platforms directly or establish any of the listed regulatory mechanisms."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to the uniform employee and student online privacy protection act",
+    "description": "Includes privacy protections for student data, especially login credentials.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill focuses on student data privacy protections including login credentials in educational settings. This constitutes data collection limits for student information and is school-based since it applies to educational contexts with students and employees, not all online platforms generally."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to prohibiting a person required to register under the sex offender registration act from possessing an online gamer account",
+    "description": "Prohibits registered sex offenders from having gaming accounts.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill specifically prohibits registered sex offenders from possessing gaming accounts. It targets a specific population (sex offenders) rather than establishing child safety mechanisms for platforms. It applies only to gaming platforms, not all platforms, and does not require any of the listed policy mechanisms like age verification, parental consent, or data restrictions."
+  },
+  {
+    "state": "New York",
+    "name": "Prevents interactive computer service providers from knowingly or negligently promoting developed content that is dangerous or otherwise injurious to minors",
+    "description": "Prohibits online services harming minors by serving them targeted content that they (at least partially) developed.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": true,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "The bill prohibits interactive computer service providers from knowingly or negligently promoting developed content that is dangerous to minors. This creates a duty of care standard for platforms regarding content promotion/targeting to minors, regulates algorithmic content serving (algorithmic_restrictions), and applies broadly to interactive computer services (targets_all_platforms). No explicit requirements for age verification, parental consent, data limits, risk assessments, privacy settings, or school-based measures are mentioned."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to enacting the New York child data privacy and protection act",
+    "description": "Requires online services likely to be used by children to conduct impact assessments and mitigation plans for harm to children;  default privacy settings to most protective for child users;  parents must consent to accept Terms of Use and privacy policy. AG Bureau of Internet and Technology may ban specific features. Use of user data for children highly restricted.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires parental consent for Terms of Use/privacy policy, restricts use of children's data, mandates impact assessments and mitigation plans, requires default privacy settings to be most protective for children, and applies to online services likely to be used by children generally. No explicit age verification requirement, algorithmic restrictions, or duty of care standard mentioned."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to the registration information required to be reported by a sex offender",
+    "description": "Includes adding Internet identifiers to sex offenders register.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill focuses on sex offender registration requirements, specifically adding Internet identifiers to the registry. It does not regulate online platforms or establish child online safety mechanisms - it's a law enforcement/registry requirement for convicted offenders."
+  },
+  {
+    "state": "New York",
+    "name": "Relates to the regulation of social media companies and social media platforms",
+    "description": "Requires parental approval for minors to have social media accounts;  requires age verification. Minor accounts: limited discoverability and communication;  allow parental access;  limited data use;  curfewed by default;  parents can set time limits.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires age verification and parental approval for minor accounts. It restricts data use for minors and mandates default privacy settings (limited discoverability, curfews). Targets specifically social media platforms, not all online services. No mention of algorithmic restrictions, duty of care standards, or risk assessments."
+  },
+  {
+    "state": "North Carolina",
+    "name": "Age Verification to Protect Children Act.",
+    "description": "Requires age verification to access websites that are more than one-third pornography.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires age verification for websites that are more than one-third pornography. This targets only specific category of websites (pornography sites), not all platforms. No other mechanisms are mentioned in the description."
+  },
+  {
+    "state": "North Carolina",
+    "name": "Social Media Algorithmic Control in IT Act.",
+    "description": "Prohibits social media platforms using minor users' data for recommendation algorithms and targeted advertising. Establishes task force to report on data privacy and social media [precise remit unclear].",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill prohibits social media platforms from using minor users' data for recommendation algorithms and targeted advertising, establishing both data collection limits and algorithmic restrictions. Applies specifically to social media platforms, not all online services. Task force creation is procedural, not regulatory."
+  },
+  {
+    "state": "North Carolina",
+    "name": "Let Parents Choose/Sammy's Law of 2023",
+    "description": "Requires social media platforms to make APIs available to facilitate the development and use of third-party safety software to control / monitor platform settings and interactions. Platforms must obtain and renew state permits.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "The bill requires social media platforms to make APIs available for third-party safety software and obtain state permits, but does not explicitly mandate any of the specific safety mechanisms listed. It targets social media platforms broadly (targets_all_platforms: true) but focuses on enabling parental control tools rather than directly regulating platform behavior through the defined mechanisms."
+  },
+  {
+    "state": "North Dakota",
+    "name": "[R]elating to the definition of a public library and required safety policies and technology protection measures;  ... relating to obscenity control;  to provide a penalty;  and to provide for application.",
+    "description": "Requires online content vendors to schools (and libraries when making content available to school-age children) to use filters.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires content filtering by vendors providing content to schools and libraries for school-age children. This is school-based regulation focused on educational institutions rather than direct platform regulation. It targets specific content vendors serving educational contexts, not all online platforms."
+  },
+  {
+    "state": "Ohio",
+    "name": "Regards education records and student data privacy",
+    "description": "Strictly limits school tech vendors' use of student data;  prohibits schools and vendors tracking or recording students via devices.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill focuses on school context, restricting tech vendors' use of student data and prohibiting tracking/recording via school devices. This creates data collection limits within schools and is school-based regulation, but doesn't apply to all platforms - only those contracting with schools."
+  },
+  {
+    "state": "Oklahoma",
+    "name": "Human trafficking and child exploitation;  creating the Human Trafficking and Child Exploitation Prevention Act;  directing retailers of Internet-enabled devices to equip products with certain filters;  codification;  effective date.",
+    "description": "Requires device retailers / manufacturers to have filters that are enabled at activation and only disabled by adults paying a fee.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires retailers/manufacturers to equip Internet-enabled devices with filters enabled at activation that can only be disabled by adults paying a fee. This constitutes age verification (adult payment requirement to disable filters). The bill targets device manufacturers/retailers rather than all online platforms, and focuses specifically on filtering harmful content rather than broader platform regulation."
+  },
+  {
+    "state": "Oregon",
+    "name": "Relating to business's use of age-appropriate design",
+    "description": "Requires online services likely to be used by children to prioritize the well-being of children over commercial interests;  conduct impact assessments and mitigation plans for harm to children;  default privacy settings to most protective for child users;  enforce their own policies. Use of user data for children highly restricted. Establishes task force to report on best practices.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": true,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires online services to prioritize child well-being (duty of care), conduct impact assessments (risk assessment), use most protective default privacy settings, and highly restricts use of children's data. Applies to online services likely used by children (all platforms). No explicit age verification or parental consent requirements mentioned. Task force is procedural, not regulatory."
+  },
+  {
+    "state": "Pennsylvania",
+    "name": "An Act providing for protection of certain personal data of consumers;  imposing duties on controllers and processors of personal data of consumers;  providing for enforcement;  prescribing penalties;  and establishing the Consumer Privacy Fund.",
+    "description": "General data privacy bill that categorizes all personal data relating to minors as \"sensitive.\"",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "This is a general data privacy bill that categorizes all personal data relating to minors as 'sensitive,' which typically creates enhanced restrictions on data collection, use, and processing for minors. The bill applies to controllers and processors generally, making it applicable to all platforms that handle consumer data, not just specific categories."
+  },
+  {
+    "state": "Pennsylvania",
+    "name": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, making editorial changes to replace references to the term \"child pornography\" with references to the term \"child sexual abuse material.\"",
+    "description": "Replaces references \"child pornography\" with \"child sexual abuse material\" in existing law.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only makes editorial changes to existing criminal law by replacing the term 'child pornography' with 'child sexual abuse material' throughout Pennsylvania's criminal statutes. It does not establish any new regulatory requirements for platforms, age verification, data collection, or other policy mechanisms - it is purely a terminological update to existing criminal law."
+  },
+  {
+    "state": "Pennsylvania",
+    "name": "An Act amending the act of November 30, 2004 (P.L.1556, No.197), known as the Child Internet Protection Act, further providing for title and for definitions;  and making editorial changes.",
+    "description": "Replaces references \"child pornography\" with \"child sexual abuse material\" in existing law.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only makes terminological changes to existing law, replacing 'child pornography' with 'child sexual abuse material' and making editorial changes. It does not establish any new regulatory mechanisms or requirements for platforms, schools, or other entities."
+  },
+  {
+    "state": "Rhode Island",
+    "name": "AN ACT RELATING TO EDUCATION -- STUDENT COMPUTER DEVICE PRIVACY",
+    "description": "Prohibits schools and vendors tracking or recording students via devices in most cases.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill prohibits schools and vendors from tracking/recording students via school devices, establishing data collection restrictions in the school context. This is school-based regulation that limits data collection practices, but does not apply to all platforms - only those operating in school environments with student devices."
+  },
+  {
+    "state": "Rhode Island",
+    "name": "AN ACT RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- RHODE ISLAND DATA TRANSPARENCY AND PRIVACY PROTECTION ACT (Provides data privacy protections for the personal identifiable information of Rhode Islanders.)",
+    "description": "General data privacy bill that categorizes all personal data relating to children as \"sensitive\";  prohibits processing or selling personal data of minor customers.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "This is a general data privacy bill that categorizes children's personal data as 'sensitive' and prohibits processing/selling personal data of minors. This constitutes data collection limits. As a general data privacy law, it targets all platforms rather than specific categories. No other mechanisms are explicitly mentioned in the description."
+  },
+  {
+    "state": "Rhode Island",
+    "name": "AN ACT RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- RHODE ISLAND DATA TRANSPARENCY AND PRIVACY PROTECTION ACT (Provides data privacy protections for the personal identifiable information of Rhode Islanders.",
+    "description": "General data privacy bill that categorizes all personal data relating to children as \"sensitive\";  prohibits processing or selling personal data of minor customers.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "This is a general data privacy bill that categorizes children's personal data as 'sensitive' and prohibits processing/selling personal data of minors. It establishes data collection limits for minors and appears to apply broadly to entities handling personal data, not just specific platform categories."
+  },
+  {
+    "state": "South Carolina",
+    "name": "Child Online Safety Act",
+    "description": "Requires age verification to access websites or apps that are principally pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires age verification for pornography websites/apps. The prohibition on retaining ID information is a procedural requirement for the age verification process, not a broader data collection limit. The bill targets only pornography sites, not all platforms."
+  },
+  {
+    "state": "South Carolina",
+    "name": "Child Online Safety Act",
+    "description": "Requires age verification to access websites or apps that are principally pornography.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill explicitly requires age verification for pornography websites/apps. It targets only pornography sites (not all platforms) and does not establish other regulatory mechanisms like parental consent, data limits, or algorithmic restrictions."
+  },
+  {
+    "state": "South Carolina",
+    "name": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 63-5-380 SO AS TO PROHIBIT THE COLLECTION OF PERSONAL INFORMATION FROM CHILDREN BY OPERATORS OF WEBSITES, ONLINE SERVICES, AND ONLINE OR MOBILE APPLICATIONS AND TO ESTABLISH PENALTIES.",
+    "description": "Prohibits online services from collecting personal information of minors.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill prohibits collection of personal information from children by operators of websites, online services, and online/mobile applications, establishing data collection restrictions that apply broadly to all platforms. No explicit requirements for age verification, parental consent, or other mechanisms are mentioned in the description."
+  },
+  {
+    "state": "South Carolina",
+    "name": "Social media regulation",
+    "description": "Prohibits online services using an \"automated decision system for content placement\" for minors. Requires age verification to use them.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill explicitly requires age verification and prohibits automated decision systems for content placement for minors (algorithmic restrictions). Applies to online services generally, not just specific categories. No mention of parental consent, data limits, duty of care, risk assessments, privacy settings, or school-based measures."
+  },
+  {
+    "state": "South Carolina",
+    "name": "Children's Default to Safety Act",
+    "description": "Requires tablet/smartphone manufacturers to have filters that are enabled at activation and only bypassed or switched off with password. Crime for non-parents to deactivate filter and allow minors to access harmful content.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires parental consent (password required to bypass filters), mandates default privacy-protective settings (filters enabled at activation), but only applies to tablet/smartphone manufacturers, not all platforms. No age verification, data limits, algorithmic restrictions, duty of care, or risk assessments explicitly required."
+  },
+  {
+    "state": "South Dakota",
+    "name": "An Act to provide liability for the publishing or distributing of material harmful to minors on the internet and the wrongful retention of individually identifiable information.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography (specific category, not all platforms). Prohibits retaining ID information used for verification, which is a data collection/retention limit. No requirements for parental consent, algorithmic restrictions, duty of care, risk assessments, default privacy settings, or school-based measures."
+  },
+  {
+    "state": "Tennessee",
+    "name": "Enacts the \"Tennessee Information Protection Act.\"",
+    "description": "General data privacy bill that categorizes all personal data relating to children as \"sensitive\".",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "This is a general data privacy bill that categorizes all personal data relating to children as 'sensitive', which creates restrictions on data collection, use, and processing for minors. As a general data privacy law, it would apply to all platforms that process personal data, not just specific categories. No other mechanisms are explicitly mentioned in the brief description."
+  },
+  {
+    "state": "Tennessee",
+    "name": "Enacts the \"Youth Mental Health Safety Act.",
+    "description": "Requires tablet/smartphone manufacturers to have filters that are enabled at activation and only bypassed or switched off with password.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires manufacturers to enable filters by default on tablets/smartphones and requires password to bypass them, which constitutes both default privacy settings and parental consent mechanisms. It targets device manufacturers specifically, not all online platforms."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to the regulation of the collection, use, processing, and treatment of consumers' personal data by certain business entities;  imposing a civil penalty.",
+    "description": "Requires age verification to use social media platforms. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for social media platforms and prohibits retaining ID information (data collection limit). Applies specifically to social media platforms, not all online services. No mention of parental consent, algorithmic restrictions, duty of care, risk assessments, default privacy settings, or school-based measures."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to the protection of minors from harmful, deceptive, or unfair trade practices in connection with the use of certain digital services.",
+    "description": "Prohibits social media platforms serving content to minors via recommendation algorithms.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "The bill explicitly prohibits social media platforms from serving content to minors via recommendation algorithms, which constitutes algorithmic restrictions. It targets social media platforms specifically, not all platforms. No other mechanisms are explicitly required based on the provided description."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to prohibiting use of social media platforms by children.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography (specific category, not all platforms). Prohibits retaining ID information, which is a data collection/retention limit. No other mechanisms are explicitly required."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to restricting access to sexual material harmful to minors on an Internet website.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography, and prohibits retaining ID information (data collection limit). It targets only specific category of websites (pornography sites), not all platforms."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to prohibiting social media platforms from using certain social media algorithms to target minors.",
+    "description": "Requires online services that are likely to be used by minors and collect personal user data to obtain parental consent to create an account for a minor or accept Terms of Service / EUAs.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires parental consent for minors to create accounts on online services that collect personal data. It prohibits social media platforms from using certain algorithms to target minors, establishing algorithmic restrictions. Applies specifically to social media platforms and online services likely to be used by minors, not all platforms."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to requirements for the use and transfer of electronic devices to students by a public school.",
+    "description": "Requires the adoption of policies for student-held school-owned devices that limit data collection, require parental consent for software, curfew, possibly limit access to social media and report harm-related content to schools and parents. Devices must have pornography filters and schools to educate parents about Internet safety.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill focuses on school-owned devices given to students, requiring parental consent for software installation and limiting data collection on these devices. It mandates pornography filters and parent education about internet safety. The bill is school-based regulation of school-owned devices rather than broad platform regulation, and only applies to specific contexts (school devices) and specific content (pornography filtering)."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to restricting access to sexual material harmful to minors on an Internet website.",
+    "description": "Requires age verification to access websites that intentionally publish pornography. Includes social media platforms that fail to remove / block minor access to pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for pornography websites and social media platforms that fail to block minor access to pornography. Prohibits retaining ID information, which is a data collection limit. Targets specific categories (pornography sites and non-compliant social media) rather than all platforms."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to restricting access to sexual material harmful to minors on an Internet website.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography, and prohibits retaining ID information (data collection limit). It targets only specific category of websites (pornography sites), not all platforms."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to online agreements between certain minors and certain digital service providers.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for pornography websites (specific category, not all platforms) and prohibits retaining ID information (data collection limit). No other mechanisms are explicitly required."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to the regulation of Internet products, services, and features accessed by children;  providing a civil penalty.",
+    "description": "Requires online services likely to be used by children that collect user data to conduct impact assessments and mitigation plans for harm to children from design or data usage;  estimate ages of users;  default privacy settings to most protective for child users. Use of user data for children highly restricted. Establishes work group to recommend best practices. ",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": true,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill requires impact assessments and mitigation plans (risk assessment), restricts use of user data for children (data collection limits), requires most protective default privacy settings for child users, and applies to online services likely used by children (all platforms). Age estimation is mentioned but not verification requiring ID. No explicit parental consent, algorithmic restrictions, or duty of care requirements described."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to requirements for certain Internet websites containing sexual material harmful to minors;  providing a civil penalty.",
+    "description": "Relating to requirements for certain Internet websites containing sexual material harmful to minors;  providing a civil penalty.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill specifically targets websites containing sexual material harmful to minors and requires age verification mechanisms to prevent minor access. The legislation is narrowly focused on pornography/adult content websites rather than all online platforms, hence targets_all_platforms is false. Only age verification is explicitly required as a mechanism."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to requirements for certain Internet websites containing sexual material harmful to minors;  providing a civil penalty.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography, and prohibits retaining ID information (data collection limit). It targets only specific pornography websites, not all platforms."
+  },
+  {
+    "state": "Texas",
+    "name": "Relating to restricting access to sexual material harmful to minors on an Internet website.",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography, and prohibits retaining ID information (data collection limit). It targets only specific category of websites (pornography sites), not all platforms."
+  },
+  {
+    "state": "Utah",
+    "name": "Social Media Usage Amendments",
+    "description": "Prohibits social media platforms from using design that is addictive to minors;  exempts those that conduct quarterly assessments and mitigations. Creates a civil cause of action against platforms for any harm caused to minors from using the platform.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": true,
+      "duty_of_care": true,
+      "risk_assessment_required": true,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill prohibits addictive design features for minors (algorithmic_restrictions), creates civil liability for harm to minors establishing duty of care (duty_of_care), requires quarterly assessments for exemption (risk_assessment_required), and applies to social media platforms generally (targets_all_platforms). No explicit age verification, parental consent, data limits, privacy defaults, or school requirements mentioned."
+  },
+  {
+    "state": "Utah",
+    "name": "Social Media Regulation Amendments",
+    "description": "Requires age verification to open social media accounts without parental consent (retaining ID information prohibited). For minor accounts: messaging and discoverability limited, advertising, suggestions, and most data collection prohibited;  curfew enabled. Parents to receive access to posts by minor and ability to set time limits.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": true,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": true,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for social media accounts, parental consent for minors, prohibits most data collection from minors, restricts suggestions/advertising (algorithmic features), and mandates privacy-protective settings like limited messaging/discoverability and curfews. Targets social media specifically, not all platforms. No duty of care standard or risk assessment requirements mentioned."
+  },
+  {
+    "state": "Utah",
+    "name": "Online Pornography Viewing Age Requirements",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for pornography websites (age_verification: true) and prohibits retaining ID information (data_collection_limits: true). Only applies to websites that are more than one-third pornography, not all platforms (targets_all_platforms: false). No other mechanisms are explicitly required."
+  },
+  {
+    "state": "Vermont",
+    "name": "An act relating to the Vermont Broadband Internet Access Service Privacy Act",
+    "description": "General data privacy bill regarding ISPs that categorizes all personal data relating to children as \"sensitive\".",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This is a general data privacy bill specifically targeting ISPs that categorizes children's personal data as 'sensitive', which creates restrictions on data collection, use, and handling for minors. However, it only applies to ISPs, not all online platforms, so targets_all_platforms is false. No other mechanisms are explicitly required by the bill."
+  },
+  {
+    "state": "Vermont",
+    "name": "An act relating to funding for the Vermont Internet Crimes Against Children (VT-ICAC) Task Force",
+    "description": "Appropriates funds for the Vermont Internet Crimes Against Children Task Force and creates three staff positions.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only appropriates funds for the Vermont Internet Crimes Against Children Task Force and creates staff positions. It is purely procedural/administrative and does not establish any regulatory requirements for platforms, schools, or other entities regarding child online safety mechanisms."
+  },
+  {
+    "state": "Virginia",
+    "name": "Consumer Data Protection Act;  protections for children, definition of verifiable parental consent",
+    "description": "Requires parental consent for minor accounts with services that process data, or to collect and use minors' data;  prohibits sale of minors' personal data, or using it for targeted advertising. Raises age of majority in existing data protection law to 18.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill explicitly requires parental consent for minor accounts and data processing. It restricts data collection by prohibiting sale of minors' personal data and use for targeted advertising. Applies to services that process data generally, not specific platform categories. No mention of age verification requirements, algorithmic restrictions, duty of care standards, risk assessments, default privacy settings, or school-based measures."
+  },
+  {
+    "state": "Virginia",
+    "name": "Consumer Data Protection Act;  protections for children.",
+    "description": "Requires parental consent for minor accounts with services that process data, or to collect and use minors' data;  prohibits sale of minors' personal data, or using it for targeted advertising. Raises age of majority in existing data protection law to 18.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill explicitly requires parental consent for minor accounts and data processing, prohibits sale of minors' personal data and targeted advertising (data collection limits), and applies to services that process data generally (all platforms). No mention of age verification requirements, algorithmic restrictions, duty of care standards, risk assessments, default privacy settings, or school-based measures."
+  },
+  {
+    "state": "Virginia",
+    "name": "Civil liability for publishing or distributing material harmful to minors on the Internet",
+    "description": "Requires age verification to access websites that are more than one-third pornography, excluding interactive computer services.  Raises age of majority in existing data protection law to 18.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for pornography websites (>1/3 pornographic content) and raises age of majority to 18 in data protection law, creating data collection limits. Excludes interactive computer services, so doesn't target all platforms. No mention of parental consent, algorithmic restrictions, duty of care, risk assessments, default privacy settings, or school-based measures."
+  },
+  {
+    "state": "West Virginia",
+    "name": "Providing online privacy protection laws for children under 18 years of age",
+    "description": "Requires online services to obtain parental consent to collect, use, or disclose minors' personal information;  encourages creation of self-regulatory guidelines.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": true,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "Bill explicitly requires parental consent for collecting/using minors' personal information and restricts data collection practices for minors under 18. Applies broadly to online services. Self-regulatory guidelines are encouraged but not mandated. No requirements for age verification, algorithmic restrictions, or other mechanisms."
+  },
+  {
+    "state": "West Virginia",
+    "name": "Relating to online privacy protection for minors",
+    "description": "Prohibits internet services from advertising or marketing harmful products (incl. weapons, tobacco, lottery tickets, pornography, spray paint) to minors;  requires internet services to facilitate the removal of minors' posted content when requested.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "The bill prohibits advertising/marketing harmful products to minors and requires content removal capabilities, but does not explicitly mandate any of the specific mechanisms like age verification, parental consent, or data restrictions. It applies broadly to 'internet services' rather than specific categories, making it target all platforms."
+  },
+  {
+    "state": "West Virginia",
+    "name": "Protection of minors from harmful material on internet",
+    "description": "Requires age verification to access websites that are more than one-third pornography. Retaining ID information prohibited.",
+    "mechanisms": {
+      "age_verification": true,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires age verification for websites that are more than one-third pornography (specific category, not all platforms). It prohibits retaining ID information, which is a data collection/retention limit. No other mechanisms are explicitly required."
+  },
+  {
+    "state": "West Virginia",
+    "name": "Relating to the Consumer Data Protection Act and establishing a framework for controlling and processing personal data in the State",
+    "description": "General data privacy bill that categorizes all personal data relating to children as \"sensitive\".",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": true,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": true
+    },
+    "reasoning": "This is a general data privacy bill that categorizes children's personal data as 'sensitive', which typically creates restrictions on collection, use, and processing of such data. As a Consumer Data Protection Act, it would apply broadly to all platforms that process personal data, not just specific categories. However, the description doesn't indicate explicit requirements for age verification, parental consent mechanisms, algorithmic restrictions, or other specific child safety measures beyond the data protection classification."
+  },
+  {
+    "state": "Wisconsin",
+    "name": "Relating to: prostitution crime surcharge and making an appropriation.",
+    "description": "Establishes a new fine and appropriates the revenue for investigating and prosecuting Internet crimes against children.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only establishes a fine/surcharge and appropriates revenue for investigating and prosecuting Internet crimes against children. It is a funding mechanism for law enforcement activities, not a regulatory framework that imposes requirements on platforms, schools, or other entities regarding child online safety mechanisms."
+  },
+  {
+    "state": "Wisconsin",
+    "name": "Relating to: pupil or minor access to harmful material in public libraries and to harmful material or offensive material in public schools.",
+    "description": "Requires schools and libraries to use filters or otherwise prevent minors and students accessing pornography.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": true,
+      "targets_all_platforms": false
+    },
+    "reasoning": "Bill requires schools and libraries to use filters to prevent minors from accessing pornography. This is school/library-based filtering rather than platform regulation, and targets specific harmful content (pornography) rather than all platforms."
+  },
+  {
+    "state": "Wisconsin",
+    "name": "Relating to: prostitution crime surcharge and making an appropriation.",
+    "description": "Establishes a new fine and appropriates the revenue for investigating and prosecuting Internet crimes against children.",
+    "mechanisms": {
+      "age_verification": false,
+      "parental_consent": false,
+      "data_collection_limits": false,
+      "algorithmic_restrictions": false,
+      "duty_of_care": false,
+      "risk_assessment_required": false,
+      "default_privacy_settings": false,
+      "school_based": false,
+      "targets_all_platforms": false
+    },
+    "reasoning": "This bill only establishes a fine/surcharge and appropriates revenue for investigating and prosecuting Internet crimes against children. It is a funding mechanism for law enforcement activities, not a regulatory framework that imposes requirements on platforms, schools, or other entities regarding child online safety mechanisms."
+  }
+]
