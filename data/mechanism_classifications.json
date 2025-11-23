@@ -184,7 +184,7 @@
       "school_based": false,
       "targets_all_platforms": true
     },
-    "reasoning": "The bill title references 'age-appropriate design code' and requires 'privacy and safety measures for minors.' This suggests data collection limits and duty of care requirements for online services generally. However, without full bill text, specific mechanisms like age verification, parental consent, algorithmic restrictions, risk assessments, or default settings cannot be confirmed as explicitly required."
+    "reasoning": "The bill title references 'age-appropriate design code' which typically establishes duty of care standards for platforms. The description mentions requiring 'privacy and safety measures for minors' suggesting data collection limits and general safety obligations. However, without full bill text, specific mechanisms like age verification, parental consent, or algorithmic restrictions cannot be confirmed as explicitly required."
   },
   {
     "state": "Connecticut",
@@ -405,7 +405,7 @@
       "school_based": false,
       "targets_all_platforms": true
     },
-    "reasoning": "Bill requires impact assessments and mitigation plans (risk assessment), restricts use of user data for children (data collection limits), requires most protective default privacy settings for child users, and applies to online services likely to be used by children (all platforms). Age estimation is mentioned but not verification requiring ID. No explicit parental consent, algorithmic restrictions, duty of care standard, or school-based provisions are described."
+    "reasoning": "Bill requires impact assessments and mitigation plans (risk assessment), restricts use of user data for children (data collection limits), mandates default privacy settings to most protective for child users, and applies to online services likely to be used by children (all platforms). Age estimation is mentioned but not verification requiring ID. No explicit parental consent, algorithmic restrictions, duty of care standard, or school-based provisions are described."
   },
   {
     "state": "Illinois",
@@ -507,7 +507,7 @@
       "school_based": false,
       "targets_all_platforms": false
     },
-    "reasoning": "Bill explicitly requires parental consent for users under 16 to use social media or gaming platforms. It targets specific platform categories (social media/gaming) rather than all online services. No other mechanisms are explicitly required based on the description provided."
+    "reasoning": "The bill explicitly requires parental consent for users under 16 to use social media or gaming platforms. It targets specific platform categories (social media and gaming) rather than all online services. No other mechanisms are explicitly required based on the provided description."
   },
   {
     "state": "Kansas",
@@ -1782,7 +1782,7 @@
       "school_based": false,
       "targets_all_platforms": true
     },
-    "reasoning": "This is a general data privacy bill that categorizes all personal data relating to minors as 'sensitive,' which typically creates enhanced restrictions on data collection, use, and processing for minors. The bill applies to controllers and processors generally, making it applicable to all platforms that handle consumer data, not just specific categories."
+    "reasoning": "This is a general data privacy bill that categorizes all personal data relating to minors as 'sensitive,' which typically creates enhanced restrictions on data collection, use, and processing for minors. The bill applies to controllers and processors generally, indicating broad platform coverage. However, without seeing specific requirements for age verification, parental consent, algorithmic restrictions, or other mechanisms, only data collection limits and broad platform targeting can be confirmed as true."
   },
   {
     "state": "Pennsylvania",
@@ -1867,7 +1867,7 @@
       "school_based": false,
       "targets_all_platforms": true
     },
-    "reasoning": "This is a general data privacy bill that categorizes children's personal data as 'sensitive' and prohibits processing/selling personal data of minors. It establishes data collection limits for minors and appears to apply broadly to entities handling personal data, not just specific platform categories."
+    "reasoning": "This is a general data privacy bill that categorizes children's personal data as 'sensitive' and prohibits processing/selling personal data of minors. It establishes data collection limits for minors and appears to apply broadly to all platforms handling personal data, but does not explicitly require age verification, parental consent, or other child-specific safety mechanisms."
   },
   {
     "state": "South Carolina",
