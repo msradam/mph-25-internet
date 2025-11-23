@@ -206,4 +206,4 @@ else:
 # --- Footer ---
 st.markdown("---")
 st.caption("Data classification analysis based on state legislation.")
-st.markdown("Original data source: **[Integrity Institute - Technology Policy Tracker](https://www.techpolicytracker.com)**")
+st.markdown("Original data source: **[Integrity Institute - Technology Policy Tracker](https://www.integrityinstitute.org/legislative-tracker)**")
